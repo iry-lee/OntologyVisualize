@@ -4,7 +4,7 @@
 - conda
 
 
-Please download miniconda from above link and create an environment using the following command:
+Please download anaconda or miniconda and create an environment using the following command:
 ```
 conda env create -f pyecharts37.yml
 ```
