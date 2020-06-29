@@ -3,8 +3,8 @@ import pyecharts.options as opts
 
 # 数据读入
 # 在这里修改输入文件的文件名
-filename = "db_onto_small_mini.txt"
-# filename = "yago_ontonet.txt"
+# filename = "db_onto_small_mini.txt"
+filename = "yago_ontonet_test.txt"
 
 file = open("data/" + filename, "r")
 triple = []
@@ -50,10 +50,12 @@ for node in node_dir.items():
 
 
 edges = []
+# 可以选定某一种关系进行展示 "isa"
+pick_one_relation = "isa"
 for tri in triple:
     # 不展示指向自己的关系
-    # 以及可以选定某一种关系进行展示 "if tri[2] == 'isa':"
-    if tri[0] != tri[2]:
+
+    if tri[0] != tri[2] and tri[1] == pick_one_relation:
         edges.append({
             "source": node_dir.get(tri[0]),
             "label": {"formatter":tri[1], "show": True, "color": "gray", "position":"middle"},
@@ -65,5 +67,5 @@ c = (
     Graph(init_opts=opts.InitOpts(width="1600px", height="800px"))
     .add("", nodes, edges, repulsion=8000, linestyle_opts=opts.LineStyleOpts(width=0.5, curve=0.3, opacity=0.7))
     .set_global_opts(title_opts=opts.TitleOpts(title="Ontology-Graph"))
-    .render(filename + ".html")
+    .render(filename + "_" + pick_one_relation + ".html")
 )
