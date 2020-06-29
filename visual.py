@@ -3,8 +3,8 @@ import pyecharts.options as opts
 
 # 数据读入
 # 在这里修改输入文件的文件名
-# filename = "db_onto_small_mini.txt"
-filename = "yago_ontonet.txt"
+filename = "db_onto_small_mini.txt"
+# filename = "yago_ontonet.txt"
 
 file = open("data/" + filename, "r")
 triple = []
@@ -57,6 +57,7 @@ for tri in triple:
         edges.append({
             "source": node_dir.get(tri[0]),
             "label": {"formatter":tri[1], "show": True, "color": "gray", "position":"middle"},
+            "symbol": ["", "arrow"],
             "target": node_dir.get(tri[2]),
         })
 
