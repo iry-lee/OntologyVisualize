@@ -1,5 +1,6 @@
 from pyecharts import options as opts
 from pyecharts.charts import Graph
+import random
 
 insNet = open("data/db_insnet.txt", "r", encoding="utf8")
 insType = open("data/db_InsType_mini.txt", "r", encoding="utf8")
@@ -46,36 +47,44 @@ for line in insNet.readlines():
 insNet.close()
 insType.close()
 
-# 开始画图
-# nodes = []
-# for item in type_dic.items():
-#     nodes.append({"name": item[0]})
-
-recorder = {}
-nodes = []
-links = []
-# 先放一个relation进来试试
+# 【如果直接打印的话】
+# 不然就改为输出每个关系的前N个(C1, r, C2)
+# 先设N=10
+N = 5
+print_file = open("dbpedia-triple-of-relation-type-most-" + str(N) + ".txt", "w")
 for item in relation_dic.items():
     dic_value = relation_type_dic[item[0]]
-    for val in dic_value.values():
-        # 因为改成了生成关系图，所以就把这里注释掉了，这里是为桑基图设计的
-        # links.append({"source": val["head"], "target": val["tail"], "value": val["count"]})
-        links.append({"source": val["head"], "target": val["tail"]})
-        if val["head"] not in recorder:
-            recorder[val["head"]] = 1
-            nodes.append({"name": val["head"]})
-        if val["tail"] not in recorder:
-            recorder[val["tail"]] = 1
-            nodes.append({"name": val["tail"]})
-    break
+    if len(dic_value) < N: continue
+    list = sorted(dic_value.items(), key=lambda x:x[1]["count"], reverse=True)
+    print_file.write(str(item[0]) + "\n")
+    for i in range(0, N):
+        if i < len(list):
+            print_file.write(str(list[i][1]) + "\n")
 
-c = (
-    Graph(init_opts=opts.InitOpts(width="1600px", height="800px"))
-    .add("", nodes, links,
-         repulsion=8000,
-         layout="force",
-         linestyle_opts=opts.LineStyleOpts(width=0.5, curve=0.3, opacity=0.7),
-         )
-    .set_global_opts(title_opts=opts.TitleOpts(title="Graph"))
-    .render("relation.html")
-)
+# 【下面是生成关系图的代码】
+# recorder = {}
+# nodes = []
+# links = []
+# for item in relation_dic.items():
+#     dic_value = relation_type_dic[item[0]]
+#     for val in dic_value.values():
+#         # 因为改成了生成关系图，所以就把这里注释掉了，这里是为桑基图设计的
+#         links.append({"source": val["head"], "target": val["tail"], "value": val["count"]})
+#         # links.append({"source": val["head"], "target": val["tail"]})
+#         if val["head"] not in recorder:
+#             recorder[val["head"]] = 1
+#             nodes.append({"name": val["head"]})
+#         if val["tail"] not in recorder:
+#             recorder[val["tail"]] = 1
+#             nodes.append({"name": val["tail"]})
+#
+# c = (
+#     Graph(init_opts=opts.InitOpts(width="1600px", height="800px"))
+#     .add("", nodes, links,
+#          repulsion=8000,
+#          layout="force",
+#          linestyle_opts=opts.LineStyleOpts(width=0.5, curve=0.3, opacity=0.7),
+#          )
+#     .set_global_opts(title_opts=opts.TitleOpts(title="Graph"))
+#     .render("relation.html")
+# )
