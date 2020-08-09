@@ -60,31 +60,3 @@ for item in relation_dic.items():
     for i in range(0, N):
         if i < len(list):
             print_file.write(str(list[i][1]) + "\n")
-
-# 【下面是生成关系图的代码】
-# recorder = {}
-# nodes = []
-# links = []
-# for item in relation_dic.items():
-#     dic_value = relation_type_dic[item[0]]
-#     for val in dic_value.values():
-#         # 因为改成了生成关系图，所以就把这里注释掉了，这里是为桑基图设计的
-#         links.append({"source": val["head"], "target": val["tail"], "value": val["count"]})
-#         # links.append({"source": val["head"], "target": val["tail"]})
-#         if val["head"] not in recorder:
-#             recorder[val["head"]] = 1
-#             nodes.append({"name": val["head"]})
-#         if val["tail"] not in recorder:
-#             recorder[val["tail"]] = 1
-#             nodes.append({"name": val["tail"]})
-#
-# c = (
-#     Graph(init_opts=opts.InitOpts(width="1600px", height="800px"))
-#     .add("", nodes, links,
-#          repulsion=8000,
-#          layout="force",
-#          linestyle_opts=opts.LineStyleOpts(width=0.5, curve=0.3, opacity=0.7),
-#          )
-#     .set_global_opts(title_opts=opts.TitleOpts(title="Graph"))
-#     .render("relation.html")
-# )
