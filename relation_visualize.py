@@ -1,5 +1,3 @@
-from pyecharts import options as opts
-from pyecharts.charts import Graph
 import random
 
 insNet = open("data/db_insnet.txt", "r", encoding="utf8")
@@ -16,7 +14,6 @@ for line in insType.readlines():
     if type not in type_dic:
         type_dic[type] = type_ct
         type_ct = type_ct + 1
-
 
 relation_dic = {}
 relation_type_dic = {}
@@ -48,13 +45,14 @@ insNet.close()
 insType.close()
 
 # 【如果直接打印的话】
-# 不然就改为输出每个关系的前N个(C1, r, C2)
-# 先设N=10
-N = 5
+# 不然就改为输出每个关系的前 N 个(C1, r, C2)
+# 先设 N=10
+N = 10
 print_file = open("dbpedia-triple-of-relation-type-most-" + str(N) + ".txt", "w")
 for item in relation_dic.items():
     dic_value = relation_type_dic[item[0]]
-    if len(dic_value) < N: continue
+    # 下面这句的作用是，如果一个关系，数据量不足N条，也不打印
+    # if len(dic_value) < N: continue
     list = sorted(dic_value.items(), key=lambda x:x[1]["count"], reverse=True)
     print_file.write(str(item[0]) + "\n")
     for i in range(0, N):

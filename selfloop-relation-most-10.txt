@@ -1,0 +1,7 @@
+formerPartner >>> formerCoach(cosine: 0.0,0.0)
+influencedBy >>> influenced(cosine: 0.0,0.0)
+grandsire >>> sire(cosine: 0.0,0.0)
+grandsire >>> damsire(cosine: 0.0,0.0)
+variantOf >>> automobilePlatform(cosine: 0.0,0.0)
+sire >>> damsire(cosine: 0.0,0.0)
+intercommunality >>> frazioni(cosine: 0.0,0.0)

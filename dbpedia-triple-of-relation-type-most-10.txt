@@ -1,0 +1,2335 @@
+institution
+{'tail': 'university', 'count': 145, 'head': 'economist'}
+{'tail': 'organisation', 'count': 14, 'head': 'engineer'}
+{'tail': 'college', 'count': 4, 'head': 'economist'}
+{'tail': 'university', 'count': 3, 'head': 'medician'}
+{'tail': 'school', 'count': 2, 'head': 'economist'}
+{'tail': 'organisation', 'count': 1, 'head': 'economist'}
+{'tail': 'company', 'count': 1, 'head': 'engineer'}
+silverMedalist
+{'tail': 'athlete', 'count': 4, 'head': 'olympic_event'}
+{'tail': 'swimmer', 'count': 4, 'head': 'olympic_event'}
+basedOn
+{'tail': 'person', 'count': 55, 'head': 'film'}
+{'tail': 'writer', 'count': 30, 'head': 'film'}
+{'tail': 'comics_creator', 'count': 5, 'head': 'film'}
+{'tail': 'television_show', 'count': 4, 'head': 'film'}
+{'tail': 'publisher', 'count': 3, 'head': 'film'}
+{'tail': 'writer', 'count': 2, 'head': 'musical'}
+{'tail': 'fictional_character', 'count': 1, 'head': 'film'}
+{'tail': 'screen_writer', 'count': 1, 'head': 'film'}
+{'tail': 'album', 'count': 1, 'head': 'film'}
+{'tail': 'band', 'count': 1, 'head': 'film'}
+award
+{'tail': 'award', 'count': 854, 'head': 'scientist'}
+{'tail': 'organisation', 'count': 103, 'head': 'scientist'}
+{'tail': 'award', 'count': 101, 'head': 'person'}
+{'tail': 'award', 'count': 74, 'head': 'comics_creator'}
+{'tail': 'award', 'count': 70, 'head': 'writer'}
+{'tail': 'company', 'count': 54, 'head': 'race_horse'}
+{'tail': 'award', 'count': 44, 'head': 'race_horse'}
+{'tail': 'film', 'count': 35, 'head': 'artist'}
+{'tail': 'film', 'count': 33, 'head': 'actor'}
+{'tail': 'film', 'count': 32, 'head': 'person'}
+musicalArtist
+{'tail': 'band', 'count': 2442, 'head': 'single'}
+{'tail': 'musical_artist', 'count': 1903, 'head': 'single'}
+{'tail': 'person', 'count': 1133, 'head': 'single'}
+{'tail': 'television_show', 'count': 6, 'head': 'single'}
+{'tail': 'comedy_group', 'count': 4, 'head': 'single'}
+{'tail': 'writer', 'count': 2, 'head': 'single'}
+{'tail': 'album', 'count': 2, 'head': 'single'}
+{'tail': 'record_label', 'count': 2, 'head': 'single'}
+{'tail': 'comedian', 'count': 1, 'head': 'single'}
+{'tail': 'actor', 'count': 1, 'head': 'single'}
+rightTributary
+{'tail': 'river', 'count': 128, 'head': 'river'}
+{'tail': 'settlement', 'count': 1, 'head': 'river'}
+{'tail': 'stream', 'count': 1, 'head': 'river'}
+{'tail': 'lake', 'count': 1, 'head': 'river'}
+{'tail': 'city', 'count': 1, 'head': 'river'}
+{'tail': 'place', 'count': 1, 'head': 'river'}
+{'tail': 'river', 'count': 1, 'head': 'place'}
+municipality
+{'tail': 'town', 'count': 12, 'head': 'river'}
+{'tail': 'settlement', 'count': 9, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 9, 'head': 'river'}
+{'tail': 'city', 'count': 6, 'head': 'river'}
+{'tail': 'town', 'count': 6, 'head': 'settlement'}
+{'tail': 'settlement', 'count': 5, 'head': 'settlement'}
+{'tail': 'town', 'count': 1, 'head': 'place'}
+{'tail': 'city', 'count': 1, 'head': 'place'}
+{'tail': 'settlement', 'count': 1, 'head': 'building'}
+almaMater
+{'tail': 'university', 'count': 3680, 'head': 'office_holder'}
+{'tail': 'university', 'count': 1299, 'head': 'person'}
+{'tail': 'university', 'count': 1296, 'head': 'scientist'}
+{'tail': 'college', 'count': 384, 'head': 'office_holder'}
+{'tail': 'university', 'count': 295, 'head': 'writer'}
+{'tail': 'school', 'count': 275, 'head': 'office_holder'}
+{'tail': 'university', 'count': 137, 'head': 'politician'}
+{'tail': 'university', 'count': 125, 'head': 'president'}
+{'tail': 'university', 'count': 119, 'head': 'economist'}
+{'tail': 'university', 'count': 108, 'head': 'governor'}
+goldMedalist
+{'tail': 'swimmer', 'count': 12, 'head': 'olympic_event'}
+{'tail': 'athlete', 'count': 5, 'head': 'olympic_event'}
+{'tail': 'office_holder', 'count': 2, 'head': 'olympic_event'}
+{'tail': 'person', 'count': 1, 'head': 'olympic_event'}
+parentMountainPeak
+{'tail': 'mountain', 'count': 13, 'head': 'mountain'}
+{'tail': 'mountain_range', 'count': 1, 'head': 'mountain'}
+binomialAuthority
+{'tail': 'scientist', 'count': 26, 'head': 'plant'}
+{'tail': 'scientist', 'count': 1, 'head': 'fish'}
+{'tail': 'person', 'count': 1, 'head': 'fish'}
+department
+{'tail': 'settlement', 'count': 135, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 8, 'head': 'settlement'}
+{'tail': 'river', 'count': 1, 'head': 'settlement'}
+sport
+{'tail': 'sport', 'count': 189, 'head': 'school'}
+{'tail': 'sport', 'count': 186, 'head': 'university'}
+{'tail': 'organisation', 'count': 6, 'head': 'university'}
+{'tail': 'game', 'count': 4, 'head': 'university'}
+producer
+{'tail': 'musical_artist', 'count': 4946, 'head': 'album'}
+{'tail': 'musical_artist', 'count': 3490, 'head': 'single'}
+{'tail': 'person', 'count': 1624, 'head': 'film'}
+{'tail': 'band', 'count': 812, 'head': 'album'}
+{'tail': 'person', 'count': 779, 'head': 'album'}
+{'tail': 'band', 'count': 770, 'head': 'single'}
+{'tail': 'person', 'count': 685, 'head': 'television_show'}
+{'tail': 'person', 'count': 628, 'head': 'single'}
+{'tail': 'musical_artist', 'count': 60, 'head': 'song'}
+{'tail': 'company', 'count': 53, 'head': 'television_show'}
+instrument
+{'tail': 'company', 'count': 584, 'head': 'musical_artist'}
+{'tail': 'software', 'count': 62, 'head': 'musical_artist'}
+{'tail': 'musical_artist', 'count': 17, 'head': 'musical_artist'}
+{'tail': 'company', 'count': 14, 'head': 'band'}
+{'tail': 'software', 'count': 7, 'head': 'band'}
+{'tail': 'company', 'count': 7, 'head': 'music_genre'}
+{'tail': 'music_genre', 'count': 5, 'head': 'music_genre'}
+{'tail': 'information_appliance', 'count': 3, 'head': 'musical_artist'}
+{'tail': 'information_appliance', 'count': 3, 'head': 'band'}
+{'tail': 'musical_artist', 'count': 2, 'head': 'band'}
+routeStart
+{'tail': 'settlement', 'count': 100, 'head': 'road'}
+{'tail': 'city', 'count': 94, 'head': 'road'}
+{'tail': 'road', 'count': 45, 'head': 'road'}
+{'tail': 'administrative_region', 'count': 12, 'head': 'railway_line'}
+{'tail': 'country', 'count': 9, 'head': 'road'}
+{'tail': 'settlement', 'count': 8, 'head': 'railway_line'}
+{'tail': 'administrative_region', 'count': 7, 'head': 'road'}
+{'tail': 'station', 'count': 6, 'head': 'railway_line'}
+{'tail': 'town', 'count': 6, 'head': 'road'}
+{'tail': 'city', 'count': 5, 'head': 'railway_line'}
+ethnicity
+{'tail': 'ethnic_group', 'count': 172, 'head': 'person'}
+{'tail': 'ethnic_group', 'count': 37, 'head': 'writer'}
+{'tail': 'language', 'count': 5, 'head': 'person'}
+{'tail': 'country', 'count': 4, 'head': 'person'}
+{'tail': 'ethnic_group', 'count': 2, 'head': 'model'}
+{'tail': 'island', 'count': 2, 'head': 'person'}
+{'tail': 'continent', 'count': 1, 'head': 'person'}
+{'tail': 'country', 'count': 1, 'head': 'writer'}
+{'tail': 'language', 'count': 1, 'head': 'writer'}
+{'tail': 'settlement', 'count': 1, 'head': 'person'}
+doctoralAdvisor
+{'tail': 'scientist', 'count': 387, 'head': 'scientist'}
+{'tail': 'office_holder', 'count': 3, 'head': 'scientist'}
+{'tail': 'person', 'count': 3, 'head': 'scientist'}
+{'tail': 'economist', 'count': 2, 'head': 'scientist'}
+{'tail': 'philosopher', 'count': 1, 'head': 'scientist'}
+{'tail': 'writer', 'count': 1, 'head': 'scientist'}
+genus
+{'tail': 'plant', 'count': 46, 'head': 'plant'}
+{'tail': 'fish', 'count': 2, 'head': 'fish'}
+{'tail': 'film', 'count': 1, 'head': 'plant'}
+{'tail': 'amphibian', 'count': 1, 'head': 'amphibian'}
+{'tail': 'insect', 'count': 1, 'head': 'insect'}
+{'tail': 'fern', 'count': 1, 'head': 'fern'}
+targetAirport
+{'tail': 'airport', 'count': 48, 'head': 'airline'}
+{'tail': 'city', 'count': 12, 'head': 'airline'}
+{'tail': 'settlement', 'count': 3, 'head': 'airline'}
+bronzeMedalist
+{'tail': 'swimmer', 'count': 1, 'head': 'olympic_event'}
+leaderName
+{'tail': 'political_party', 'count': 276, 'head': 'settlement'}
+{'tail': 'political_party', 'count': 262, 'head': 'city'}
+{'tail': 'political_party', 'count': 165, 'head': 'town'}
+{'tail': 'office_holder', 'count': 143, 'head': 'settlement'}
+{'tail': 'office_holder', 'count': 84, 'head': 'city'}
+{'tail': 'office_holder', 'count': 33, 'head': 'town'}
+{'tail': 'member_o_fparliament', 'count': 32, 'head': 'settlement'}
+{'tail': 'member_o_fparliament', 'count': 27, 'head': 'town'}
+{'tail': 'legislature', 'count': 22, 'head': 'settlement'}
+{'tail': 'member_o_fparliament', 'count': 18, 'head': 'city'}
+routeEnd
+{'tail': 'settlement', 'count': 93, 'head': 'road'}
+{'tail': 'city', 'count': 89, 'head': 'road'}
+{'tail': 'road', 'count': 43, 'head': 'road'}
+{'tail': 'country', 'count': 10, 'head': 'road'}
+{'tail': 'town', 'count': 10, 'head': 'road'}
+{'tail': 'administrative_region', 'count': 10, 'head': 'railway_line'}
+{'tail': 'administrative_region', 'count': 5, 'head': 'road'}
+{'tail': 'city', 'count': 4, 'head': 'railway_line'}
+{'tail': 'river', 'count': 3, 'head': 'road'}
+{'tail': 'settlement', 'count': 3, 'head': 'railway_line'}
+publisher
+{'tail': 'company', 'count': 318, 'head': 'video_game'}
+{'tail': 'publisher', 'count': 37, 'head': 'magazine'}
+{'tail': 'publisher', 'count': 15, 'head': 'book'}
+{'tail': 'information_appliance', 'count': 14, 'head': 'video_game'}
+{'tail': 'company', 'count': 10, 'head': 'magazine'}
+{'tail': 'publisher', 'count': 10, 'head': 'manga'}
+{'tail': 'software', 'count': 8, 'head': 'video_game'}
+{'tail': 'company', 'count': 4, 'head': 'manga'}
+{'tail': 'person', 'count': 3, 'head': 'book'}
+{'tail': 'company', 'count': 2, 'head': 'book'}
+firstLeader
+{'tail': 'office_holder', 'count': 6, 'head': 'election'}
+formerBandMember
+{'tail': 'musical_artist', 'count': 5556, 'head': 'band'}
+{'tail': 'person', 'count': 185, 'head': 'band'}
+{'tail': 'band', 'count': 99, 'head': 'band'}
+{'tail': 'guitarist', 'count': 24, 'head': 'band'}
+{'tail': 'office_holder', 'count': 3, 'head': 'band'}
+{'tail': 'single', 'count': 2, 'head': 'band'}
+{'tail': 'comedian', 'count': 2, 'head': 'band'}
+{'tail': 'writer', 'count': 2, 'head': 'band'}
+{'tail': 'senator', 'count': 2, 'head': 'band'}
+{'tail': 'music_genre', 'count': 2, 'head': 'band'}
+placeOfBurial
+{'tail': 'city', 'count': 3, 'head': 'monarch'}
+{'tail': 'country', 'count': 3, 'head': 'monarch'}
+{'tail': 'settlement', 'count': 3, 'head': 'monarch'}
+{'tail': 'administrative_region', 'count': 2, 'head': 'noble'}
+{'tail': 'country', 'count': 2, 'head': 'noble'}
+{'tail': 'town', 'count': 1, 'head': 'noble'}
+{'tail': 'settlement', 'count': 1, 'head': 'noble'}
+notableStudent
+{'tail': 'scientist', 'count': 126, 'head': 'scientist'}
+{'tail': 'office_holder', 'count': 3, 'head': 'scientist'}
+{'tail': 'person', 'count': 3, 'head': 'scientist'}
+{'tail': 'philosopher', 'count': 3, 'head': 'scientist'}
+{'tail': 'economist', 'count': 3, 'head': 'scientist'}
+{'tail': 'writer', 'count': 2, 'head': 'scientist'}
+{'tail': 'university', 'count': 2, 'head': 'scientist'}
+{'tail': 'architect', 'count': 1, 'head': 'scientist'}
+{'tail': 'company', 'count': 1, 'head': 'scientist'}
+owningCompany
+{'tail': 'company', 'count': 808, 'head': 'television_station'}
+{'tail': 'company', 'count': 475, 'head': 'company'}
+{'tail': 'company', 'count': 61, 'head': 'broadcast_network'}
+{'tail': 'broadcast_network', 'count': 48, 'head': 'television_station'}
+{'tail': 'person', 'count': 43, 'head': 'company'}
+{'tail': 'bank', 'count': 30, 'head': 'company'}
+{'tail': 'television_station', 'count': 16, 'head': 'television_station'}
+{'tail': 'broadcast_network', 'count': 11, 'head': 'broadcast_network'}
+{'tail': 'bank', 'count': 9, 'head': 'bank'}
+{'tail': 'musical_artist', 'count': 6, 'head': 'company'}
+service
+{'tail': 'administrative_region', 'count': 14, 'head': 'company'}
+{'tail': 'magazine', 'count': 8, 'head': 'company'}
+{'tail': 'information_appliance', 'count': 7, 'head': 'company'}
+{'tail': 'country', 'count': 2, 'head': 'company'}
+{'tail': 'rugby_league', 'count': 1, 'head': 'company'}
+{'tail': 'radio_station', 'count': 1, 'head': 'company'}
+{'tail': 'software', 'count': 1, 'head': 'company'}
+{'tail': 'public_transi_tsystem', 'count': 1, 'head': 'company'}
+{'tail': 'beverage', 'count': 1, 'head': 'company'}
+{'tail': 'broadcast_network', 'count': 1, 'head': 'company'}
+territory
+{'tail': 'country', 'count': 117, 'head': 'military_conflict'}
+{'tail': 'administrative_region', 'count': 113, 'head': 'diocese'}
+{'tail': 'settlement', 'count': 61, 'head': 'military_conflict'}
+{'tail': 'settlement', 'count': 22, 'head': 'diocese'}
+{'tail': 'administrative_region', 'count': 21, 'head': 'military_conflict'}
+{'tail': 'island', 'count': 17, 'head': 'military_conflict'}
+{'tail': 'city', 'count': 8, 'head': 'military_conflict'}
+{'tail': 'city', 'count': 5, 'head': 'diocese'}
+{'tail': 'town', 'count': 3, 'head': 'military_conflict'}
+{'tail': 'town', 'count': 2, 'head': 'diocese'}
+lieutenant
+{'tail': 'office_holder', 'count': 126, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 25, 'head': 'governor'}
+{'tail': 'governor', 'count': 11, 'head': 'office_holder'}
+{'tail': 'governor', 'count': 7, 'head': 'governor'}
+{'tail': 'office_holder', 'count': 5, 'head': 'president'}
+{'tail': 'office_holder', 'count': 5, 'head': 'senator'}
+{'tail': 'office_holder', 'count': 3, 'head': 'politician'}
+{'tail': 'president', 'count': 2, 'head': 'president'}
+{'tail': 'senator', 'count': 1, 'head': 'senator'}
+{'tail': 'office_holder', 'count': 1, 'head': 'judge'}
+president
+{'tail': 'office_holder', 'count': 2000, 'head': 'office_holder'}
+{'tail': 'president', 'count': 679, 'head': 'office_holder'}
+{'tail': 'president', 'count': 102, 'head': 'president'}
+{'tail': 'office_holder', 'count': 83, 'head': 'prime_minister'}
+{'tail': 'office_holder', 'count': 53, 'head': 'politician'}
+{'tail': 'office_holder', 'count': 42, 'head': 'political_party'}
+{'tail': 'president', 'count': 41, 'head': 'prime_minister'}
+{'tail': 'office_holder', 'count': 31, 'head': 'president'}
+{'tail': 'office_holder', 'count': 29, 'head': 'governor'}
+{'tail': 'office_holder', 'count': 26, 'head': 'ambassador'}
+associate
+{'tail': 'office_holder', 'count': 234, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 38, 'head': 'politician'}
+{'tail': 'office_holder', 'count': 36, 'head': 'member_o_fparliament'}
+{'tail': 'politician', 'count': 34, 'head': 'office_holder'}
+{'tail': 'member_o_fparliament', 'count': 22, 'head': 'office_holder'}
+{'tail': 'politician', 'count': 18, 'head': 'politician'}
+{'tail': 'member_o_fparliament', 'count': 17, 'head': 'member_o_fparliament'}
+{'tail': 'politician', 'count': 15, 'head': 'member_o_fparliament'}
+{'tail': 'office_holder', 'count': 13, 'head': 'president'}
+{'tail': 'president', 'count': 11, 'head': 'office_holder'}
+founder
+{'tail': 'comics_creator', 'count': 6, 'head': 'publisher'}
+{'tail': 'person', 'count': 6, 'head': 'publisher'}
+{'tail': 'writer', 'count': 4, 'head': 'publisher'}
+{'tail': 'royalty', 'count': 2, 'head': 'city'}
+{'tail': 'ethnic_group', 'count': 2, 'head': 'city'}
+{'tail': 'governor', 'count': 1, 'head': 'settlement'}
+{'tail': 'office_holder', 'count': 1, 'head': 'settlement'}
+{'tail': 'governor', 'count': 1, 'head': 'city'}
+{'tail': 'office_holder', 'count': 1, 'head': 'city'}
+{'tail': 'person', 'count': 1, 'head': 'city'}
+presenter
+{'tail': 'person', 'count': 235, 'head': 'television_show'}
+{'tail': 'comedian', 'count': 51, 'head': 'television_show'}
+{'tail': 'musical_artist', 'count': 21, 'head': 'television_show'}
+{'tail': 'organisation', 'count': 13, 'head': 'award'}
+{'tail': 'actor', 'count': 9, 'head': 'television_show'}
+{'tail': 'office_holder', 'count': 8, 'head': 'television_show'}
+{'tail': 'company', 'count': 6, 'head': 'television_show'}
+{'tail': 'american_footbal_lplayer', 'count': 5, 'head': 'television_show'}
+{'tail': 'writer', 'count': 5, 'head': 'television_show'}
+{'tail': 'comedy_group', 'count': 4, 'head': 'television_show'}
+animator
+{'tail': 'person', 'count': 24, 'head': 'hollywood_cartoon'}
+{'tail': 'artist', 'count': 3, 'head': 'hollywood_cartoon'}
+{'tail': 'comics_creator', 'count': 2, 'head': 'hollywood_cartoon'}
+{'tail': 'company', 'count': 2, 'head': 'hollywood_cartoon'}
+{'tail': 'scientist', 'count': 1, 'head': 'hollywood_cartoon'}
+populationPlace
+{'tail': 'country', 'count': 2200, 'head': 'ethnic_group'}
+{'tail': 'settlement', 'count': 650, 'head': 'ethnic_group'}
+{'tail': 'administrative_region', 'count': 491, 'head': 'ethnic_group'}
+{'tail': 'city', 'count': 395, 'head': 'ethnic_group'}
+{'tail': 'island', 'count': 20, 'head': 'ethnic_group'}
+{'tail': 'continent', 'count': 19, 'head': 'ethnic_group'}
+{'tail': 'town', 'count': 18, 'head': 'ethnic_group'}
+{'tail': 'ethnic_group', 'count': 15, 'head': 'ethnic_group'}
+{'tail': 'mountain_range', 'count': 2, 'head': 'ethnic_group'}
+kingdom
+{'tail': 'eukaryote', 'count': 237, 'head': 'plant'}
+{'tail': 'fungus', 'count': 12, 'head': 'fungus'}
+{'tail': 'eukaryote', 'count': 9, 'head': 'fern'}
+{'tail': 'eukaryote', 'count': 8, 'head': 'conifer'}
+{'tail': 'eukaryote', 'count': 6, 'head': 'green_alga'}
+{'tail': 'bacteria', 'count': 6, 'head': 'species'}
+{'tail': 'eukaryote', 'count': 5, 'head': 'club_moss'}
+{'tail': 'eukaryote', 'count': 3, 'head': 'cycad'}
+{'tail': 'archaea', 'count': 2, 'head': 'archaea'}
+{'tail': 'eukaryote', 'count': 2, 'head': 'moss'}
+source
+{'tail': 'mountain_range', 'count': 34, 'head': 'river'}
+{'tail': 'river', 'count': 23, 'head': 'river'}
+{'tail': 'lake', 'count': 6, 'head': 'river'}
+{'tail': 'settlement', 'count': 5, 'head': 'river'}
+{'tail': 'city', 'count': 3, 'head': 'river'}
+{'tail': 'town', 'count': 2, 'head': 'river'}
+{'tail': 'river', 'count': 2, 'head': 'place'}
+{'tail': 'administrative_region', 'count': 2, 'head': 'river'}
+{'tail': 'place', 'count': 1, 'head': 'river'}
+format
+{'tail': 'country', 'count': 13, 'head': 'single'}
+{'tail': 'company', 'count': 4, 'head': 'television_show'}
+{'tail': 'music_genre', 'count': 2, 'head': 'single'}
+{'tail': 'broadcast_network', 'count': 2, 'head': 'single'}
+{'tail': 'software', 'count': 1, 'head': 'television_show'}
+{'tail': 'language', 'count': 1, 'head': 'television_show'}
+politicalPartyInLegislature
+{'tail': 'political_party', 'count': 289, 'head': 'legislature'}
+{'tail': 'president', 'count': 1, 'head': 'legislature'}
+{'tail': 'formula_on_eracer', 'count': 1, 'head': 'legislature'}
+{'tail': 'ethnic_group', 'count': 1, 'head': 'legislature'}
+nextEvent
+{'tail': 'olympic_event', 'count': 125, 'head': 'olympic_event'}
+builder
+{'tail': 'country', 'count': 5, 'head': 'ship'}
+{'tail': 'settlement', 'count': 4, 'head': 'ship'}
+{'tail': 'company', 'count': 4, 'head': 'ship'}
+{'tail': 'country', 'count': 3, 'head': 'military_structure'}
+{'tail': 'city', 'count': 2, 'head': 'ship'}
+{'tail': 'ethnic_group', 'count': 1, 'head': 'military_structure'}
+{'tail': 'company', 'count': 1, 'head': 'stadium'}
+cinematography
+{'tail': 'person', 'count': 862, 'head': 'film'}
+{'tail': 'artist', 'count': 27, 'head': 'film'}
+{'tail': 'actor', 'count': 12, 'head': 'film'}
+{'tail': 'writer', 'count': 2, 'head': 'film'}
+{'tail': 'member_o_fparliament', 'count': 1, 'head': 'film'}
+{'tail': 'musical_artist', 'count': 1, 'head': 'film'}
+division
+{'tail': 'company', 'count': 123, 'head': 'company'}
+{'tail': 'fungus', 'count': 91, 'head': 'fungus'}
+{'tail': 'plant', 'count': 68, 'head': 'plant'}
+{'tail': 'television_station', 'count': 24, 'head': 'company'}
+{'tail': 'broadcast_network', 'count': 12, 'head': 'company'}
+{'tail': 'conifer', 'count': 9, 'head': 'conifer'}
+{'tail': 'country', 'count': 8, 'head': 'company'}
+{'tail': 'city', 'count': 7, 'head': 'company'}
+{'tail': 'settlement', 'count': 6, 'head': 'company'}
+{'tail': 'record_label', 'count': 5, 'head': 'company'}
+sisterStation
+{'tail': 'radio_station', 'count': 3363, 'head': 'radio_station'}
+{'tail': 'television_station', 'count': 3077, 'head': 'television_station'}
+{'tail': 'radio_station', 'count': 160, 'head': 'television_station'}
+{'tail': 'television_station', 'count': 149, 'head': 'radio_station'}
+{'tail': 'broadcast_network', 'count': 39, 'head': 'television_station'}
+{'tail': 'company', 'count': 3, 'head': 'television_station'}
+{'tail': 'broadcast_network', 'count': 1, 'head': 'radio_station'}
+voice
+{'tail': 'person', 'count': 2352, 'head': 'television_show'}
+{'tail': 'person', 'count': 343, 'head': 'fictional_character'}
+{'tail': 'comedian', 'count': 50, 'head': 'television_show'}
+{'tail': 'musical_artist', 'count': 34, 'head': 'television_show'}
+{'tail': 'company', 'count': 15, 'head': 'animanga_character'}
+{'tail': 'person', 'count': 13, 'head': 'animanga_character'}
+{'tail': 'actor', 'count': 11, 'head': 'television_show'}
+{'tail': 'comedian', 'count': 10, 'head': 'fictional_character'}
+{'tail': 'musical_artist', 'count': 10, 'head': 'fictional_character'}
+{'tail': 'television_show', 'count': 9, 'head': 'fictional_character'}
+predecessor
+{'tail': 'office_holder', 'count': 5343, 'head': 'office_holder'}
+{'tail': 'automobile', 'count': 511, 'head': 'automobile'}
+{'tail': 'royalty', 'count': 263, 'head': 'royalty'}
+{'tail': 'prime_minister', 'count': 227, 'head': 'office_holder'}
+{'tail': 'president', 'count': 182, 'head': 'office_holder'}
+{'tail': 'politician', 'count': 162, 'head': 'office_holder'}
+{'tail': 'company', 'count': 120, 'head': 'company'}
+{'tail': 'governor', 'count': 112, 'head': 'office_holder'}
+{'tail': 'member_o_fparliament', 'count': 94, 'head': 'office_holder'}
+{'tail': 'senator', 'count': 65, 'head': 'office_holder'}
+series
+{'tail': 'television_show', 'count': 487, 'head': 'television_episode'}
+{'tail': 'television_show', 'count': 62, 'head': 'fictional_character'}
+{'tail': 'hollywood_cartoon', 'count': 13, 'head': 'fictional_character'}
+{'tail': 'film', 'count': 5, 'head': 'fictional_character'}
+{'tail': 'video_game', 'count': 5, 'head': 'video_game'}
+{'tail': 'fictional_character', 'count': 4, 'head': 'book'}
+{'tail': 'film', 'count': 2, 'head': 'video_game'}
+{'tail': 'book', 'count': 2, 'head': 'fictional_character'}
+{'tail': 'fictional_character', 'count': 2, 'head': 'hollywood_cartoon'}
+{'tail': 'film', 'count': 2, 'head': 'hollywood_cartoon'}
+philosophicalSchool
+{'tail': 'ethnic_group', 'count': 1, 'head': 'philosopher'}
+{'tail': 'country', 'count': 1, 'head': 'philosopher'}
+parentCompany
+{'tail': 'company', 'count': 783, 'head': 'company'}
+{'tail': 'company', 'count': 343, 'head': 'record_label'}
+{'tail': 'record_label', 'count': 113, 'head': 'record_label'}
+{'tail': 'publisher', 'count': 61, 'head': 'publisher'}
+{'tail': 'company', 'count': 16, 'head': 'publisher'}
+{'tail': 'university', 'count': 11, 'head': 'publisher'}
+{'tail': 'company', 'count': 8, 'head': 'airline'}
+{'tail': 'publisher', 'count': 8, 'head': 'company'}
+{'tail': 'bank', 'count': 5, 'head': 'bank'}
+{'tail': 'company', 'count': 4, 'head': 'bank'}
+railwayRollingStock
+{'tail': 'train', 'count': 61, 'head': 'railway_line'}
+{'tail': 'company', 'count': 11, 'head': 'railway_line'}
+{'tail': 'city', 'count': 2, 'head': 'railway_line'}
+{'tail': 'settlement', 'count': 2, 'head': 'railway_line'}
+{'tail': 'public_transi_tsystem', 'count': 2, 'head': 'railway_line'}
+university
+{'tail': 'university', 'count': 5, 'head': 'sports_team'}
+internationalAffiliation
+{'tail': 'organisation', 'count': 254, 'head': 'political_party'}
+{'tail': 'political_party', 'count': 15, 'head': 'political_party'}
+governor
+{'tail': 'office_holder', 'count': 463, 'head': 'office_holder'}
+{'tail': 'governor', 'count': 85, 'head': 'office_holder'}
+{'tail': 'president', 'count': 24, 'head': 'office_holder'}
+{'tail': 'senator', 'count': 13, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 13, 'head': 'governor'}
+{'tail': 'governor', 'count': 9, 'head': 'governor'}
+{'tail': 'politician', 'count': 6, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 4, 'head': 'politician'}
+{'tail': 'office_holder', 'count': 4, 'head': 'president'}
+{'tail': 'office_holder', 'count': 4, 'head': 'prime_minister'}
+neighboringMunicipality
+{'tail': 'settlement', 'count': 2025, 'head': 'settlement'}
+{'tail': 'town', 'count': 3, 'head': 'settlement'}
+{'tail': 'lake', 'count': 1, 'head': 'settlement'}
+appointer
+{'tail': 'office_holder', 'count': 17, 'head': 'office_holder'}
+{'tail': 'president', 'count': 6, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 3, 'head': 'governor'}
+{'tail': 'office_holder', 'count': 1, 'head': 'judge'}
+{'tail': 'politician', 'count': 1, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 1, 'head': 'politician'}
+{'tail': 'office_holder', 'count': 1, 'head': 'congressman'}
+{'tail': 'office_holder', 'count': 1, 'head': 'senator'}
+{'tail': 'governor', 'count': 1, 'head': 'office_holder'}
+governingBody
+{'tail': 'legislature', 'count': 5, 'head': 'city'}
+{'tail': 'government_agency', 'count': 3, 'head': 'building'}
+{'tail': 'government_agency', 'count': 1, 'head': 'historic_place'}
+{'tail': 'legislature', 'count': 1, 'head': 'settlement'}
+{'tail': 'military_unit', 'count': 1, 'head': 'historic_place'}
+{'tail': 'government_agency', 'count': 1, 'head': 'settlement'}
+associatedMusicalArtist
+{'tail': 'musical_artist', 'count': 16048, 'head': 'musical_artist'}
+{'tail': 'band', 'count': 15687, 'head': 'musical_artist'}
+{'tail': 'band', 'count': 14421, 'head': 'band'}
+{'tail': 'person', 'count': 3409, 'head': 'musical_artist'}
+{'tail': 'musical_artist', 'count': 3051, 'head': 'band'}
+{'tail': 'person', 'count': 528, 'head': 'band'}
+{'tail': 'band', 'count': 52, 'head': 'guitarist'}
+{'tail': 'album', 'count': 37, 'head': 'musical_artist'}
+{'tail': 'television_show', 'count': 37, 'head': 'musical_artist'}
+{'tail': 'record_label', 'count': 31, 'head': 'musical_artist'}
+formerPartner
+{'tail': 'figure_skater', 'count': 5, 'head': 'figure_skater'}
+largestCity
+{'tail': 'city', 'count': 1071, 'head': 'administrative_region'}
+{'tail': 'settlement', 'count': 177, 'head': 'administrative_region'}
+{'tail': 'town', 'count': 131, 'head': 'administrative_region'}
+{'tail': 'city', 'count': 47, 'head': 'country'}
+{'tail': 'settlement', 'count': 44, 'head': 'country'}
+{'tail': 'village', 'count': 19, 'head': 'administrative_region'}
+{'tail': 'city', 'count': 19, 'head': 'island'}
+{'tail': 'settlement', 'count': 19, 'head': 'island'}
+{'tail': 'administrative_region', 'count': 3, 'head': 'country'}
+{'tail': 'administrative_region', 'count': 3, 'head': 'administrative_region'}
+parentOrganisation
+{'tail': 'company', 'count': 23, 'head': 'broadcast_network'}
+{'tail': 'government_agency', 'count': 19, 'head': 'government_agency'}
+{'tail': 'organisation', 'count': 10, 'head': 'organisation'}
+{'tail': 'company', 'count': 7, 'head': 'television_station'}
+{'tail': 'government_agency', 'count': 5, 'head': 'organisation'}
+{'tail': 'television_station', 'count': 5, 'head': 'television_station'}
+{'tail': 'broadcast_network', 'count': 3, 'head': 'broadcast_network'}
+{'tail': 'political_party', 'count': 2, 'head': 'government_agency'}
+{'tail': 'organisation', 'count': 1, 'head': 'government_agency'}
+{'tail': 'broadcast_network', 'count': 1, 'head': 'television_station'}
+director
+{'tail': 'person', 'count': 1614, 'head': 'film'}
+{'tail': 'person', 'count': 1464, 'head': 'television_show'}
+{'tail': 'person', 'count': 305, 'head': 'television_episode'}
+{'tail': 'artist', 'count': 49, 'head': 'film'}
+{'tail': 'artist', 'count': 47, 'head': 'television_show'}
+{'tail': 'actor', 'count': 36, 'head': 'film'}
+{'tail': 'writer', 'count': 31, 'head': 'television_episode'}
+{'tail': 'writer', 'count': 22, 'head': 'film'}
+{'tail': 'person', 'count': 21, 'head': 'hollywood_cartoon'}
+{'tail': 'comedian', 'count': 17, 'head': 'television_show'}
+capital
+{'tail': 'city', 'count': 267, 'head': 'country'}
+{'tail': 'settlement', 'count': 251, 'head': 'country'}
+{'tail': 'city', 'count': 111, 'head': 'administrative_region'}
+{'tail': 'settlement', 'count': 41, 'head': 'administrative_region'}
+{'tail': 'town', 'count': 19, 'head': 'country'}
+{'tail': 'administrative_region', 'count': 16, 'head': 'country'}
+{'tail': 'town', 'count': 8, 'head': 'administrative_region'}
+{'tail': 'place', 'count': 4, 'head': 'country'}
+{'tail': 'administrative_region', 'count': 3, 'head': 'administrative_region'}
+{'tail': 'country', 'count': 3, 'head': 'country'}
+assembly
+{'tail': 'country', 'count': 1523, 'head': 'automobile'}
+{'tail': 'city', 'count': 1456, 'head': 'automobile'}
+{'tail': 'settlement', 'count': 1104, 'head': 'automobile'}
+{'tail': 'town', 'count': 279, 'head': 'automobile'}
+{'tail': 'administrative_region', 'count': 105, 'head': 'automobile'}
+{'tail': 'company', 'count': 63, 'head': 'automobile'}
+{'tail': 'village', 'count': 20, 'head': 'automobile'}
+{'tail': 'bank', 'count': 10, 'head': 'automobile'}
+{'tail': 'island', 'count': 4, 'head': 'automobile'}
+{'tail': 'continent', 'count': 1, 'head': 'automobile'}
+album
+{'tail': 'album', 'count': 1219, 'head': 'single'}
+{'tail': 'album', 'count': 30, 'head': 'song'}
+{'tail': 'film', 'count': 9, 'head': 'single'}
+{'tail': 'musical_artist', 'count': 5, 'head': 'single'}
+{'tail': 'single', 'count': 2, 'head': 'single'}
+{'tail': 'television_show', 'count': 2, 'head': 'single'}
+{'tail': 'musical', 'count': 1, 'head': 'single'}
+{'tail': 'band', 'count': 1, 'head': 'single'}
+{'tail': 'city', 'count': 1, 'head': 'single'}
+influencedBy
+{'tail': 'writer', 'count': 1574, 'head': 'writer'}
+{'tail': 'philosopher', 'count': 1463, 'head': 'philosopher'}
+{'tail': 'scientist', 'count': 225, 'head': 'scientist'}
+{'tail': 'philosopher', 'count': 221, 'head': 'writer'}
+{'tail': 'programming_language', 'count': 205, 'head': 'programming_language'}
+{'tail': 'comedian', 'count': 198, 'head': 'comedian'}
+{'tail': 'person', 'count': 194, 'head': 'writer'}
+{'tail': 'economist', 'count': 168, 'head': 'economist'}
+{'tail': 'person', 'count': 166, 'head': 'comedian'}
+{'tail': 'philosopher', 'count': 146, 'head': 'scientist'}
+license
+{'tail': 'company', 'count': 2, 'head': 'software'}
+{'tail': 'software', 'count': 1, 'head': 'software'}
+{'tail': 'software', 'count': 1, 'head': 'programming_language'}
+college
+{'tail': 'university', 'count': 4, 'head': 'gridiron_footbal_lplayer'}
+{'tail': 'university', 'count': 3, 'head': 'golf_player'}
+{'tail': 'university', 'count': 1, 'head': 'basketball_player'}
+mediaType
+{'tail': 'information_appliance', 'count': 1, 'head': 'book'}
+nonFictionSubject
+{'tail': 'country', 'count': 3, 'head': 'book'}
+{'tail': 'game', 'count': 1, 'head': 'book'}
+position
+{'tail': 'soccer_league', 'count': 372, 'head': 'soccer_club'}
+{'tail': 'football_leagu_eseason', 'count': 9, 'head': 'soccer_club'}
+{'tail': 'hockey_team', 'count': 1, 'head': 'ice_hocke_yplayer'}
+{'tail': 'settlement', 'count': 1, 'head': 'soccer_club'}
+subject
+{'tail': 'office_holder', 'count': 4, 'head': 'writer'}
+{'tail': 'administrative_region', 'count': 2, 'head': 'writer'}
+{'tail': 'military_conflict', 'count': 2, 'head': 'writer'}
+{'tail': 'country', 'count': 1, 'head': 'writer'}
+{'tail': 'language', 'count': 1, 'head': 'writer'}
+{'tail': 'disease', 'count': 1, 'head': 'writer'}
+locationCity
+{'tail': 'city', 'count': 686, 'head': 'company'}
+{'tail': 'settlement', 'count': 367, 'head': 'company'}
+{'tail': 'administrative_region', 'count': 252, 'head': 'company'}
+{'tail': 'country', 'count': 70, 'head': 'company'}
+{'tail': 'city', 'count': 49, 'head': 'television_station'}
+{'tail': 'town', 'count': 48, 'head': 'company'}
+{'tail': 'city', 'count': 44, 'head': 'hockey_team'}
+{'tail': 'city', 'count': 26, 'head': 'american_footbal_lteam'}
+{'tail': 'administrative_region', 'count': 23, 'head': 'television_station'}
+{'tail': 'city', 'count': 22, 'head': 'bank'}
+employer
+{'tail': 'company', 'count': 89, 'head': 'person'}
+{'tail': 'university', 'count': 46, 'head': 'person'}
+{'tail': 'television_station', 'count': 41, 'head': 'person'}
+{'tail': 'publisher', 'count': 7, 'head': 'person'}
+{'tail': 'record_label', 'count': 7, 'head': 'person'}
+{'tail': 'military_unit', 'count': 5, 'head': 'person'}
+{'tail': 'broadcast_network', 'count': 5, 'head': 'person'}
+{'tail': 'school', 'count': 4, 'head': 'person'}
+{'tail': 'radio_station', 'count': 2, 'head': 'person'}
+{'tail': 'public_transi_tsystem', 'count': 2, 'head': 'engineer'}
+sourceCountry
+{'tail': 'country', 'count': 147, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 13, 'head': 'river'}
+{'tail': 'city', 'count': 2, 'head': 'river'}
+{'tail': 'country', 'count': 1, 'head': 'place'}
+usedInWar
+{'tail': 'military_conflict', 'count': 371, 'head': 'weapon'}
+{'tail': 'continent', 'count': 2, 'head': 'weapon'}
+{'tail': 'political_party', 'count': 1, 'head': 'weapon'}
+{'tail': 'country', 'count': 1, 'head': 'weapon'}
+industry
+{'tail': 'sport', 'count': 4, 'head': 'company'}
+{'tail': 'company', 'count': 2, 'head': 'company'}
+{'tail': 'beverage', 'count': 2, 'head': 'company'}
+{'tail': 'food', 'count': 1, 'head': 'company'}
+{'tail': 'music_genre', 'count': 1, 'head': 'company'}
+{'tail': 'magazine', 'count': 1, 'head': 'company'}
+lastAppearance
+{'tail': 'television_episode', 'count': 12, 'head': 'fictional_character'}
+{'tail': 'television_show', 'count': 8, 'head': 'fictional_character'}
+{'tail': 'film', 'count': 4, 'head': 'fictional_character'}
+maintainedBy
+{'tail': 'city', 'count': 9, 'head': 'road'}
+{'tail': 'settlement', 'count': 2, 'head': 'road'}
+{'tail': 'government_agency', 'count': 1, 'head': 'road'}
+{'tail': 'organisation', 'count': 1, 'head': 'road'}
+aircraftFighter
+{'tail': 'aircraft', 'count': 58, 'head': 'military_unit'}
+gameEngine
+{'tail': 'software', 'count': 22, 'head': 'video_game'}
+{'tail': 'company', 'count': 5, 'head': 'video_game'}
+{'tail': 'information_appliance', 'count': 4, 'head': 'video_game'}
+{'tail': 'programming_language', 'count': 3, 'head': 'video_game'}
+{'tail': 'software', 'count': 1, 'head': 'album'}
+magazine
+{'tail': 'magazine', 'count': 7, 'head': 'manga'}
+{'tail': 'television_station', 'count': 1, 'head': 'manga'}
+honours
+{'tail': 'museum', 'count': 148, 'head': 'race_horse'}
+{'tail': 'museum', 'count': 92, 'head': 'jockey'}
+{'tail': 'museum', 'count': 52, 'head': 'horse_trainer'}
+{'tail': 'horse_race', 'count': 33, 'head': 'race_horse'}
+{'tail': 'racecourse', 'count': 28, 'head': 'race_horse'}
+{'tail': 'city', 'count': 13, 'head': 'race_horse'}
+{'tail': 'racecourse', 'count': 9, 'head': 'jockey'}
+{'tail': 'company', 'count': 6, 'head': 'race_horse'}
+{'tail': 'country', 'count': 5, 'head': 'race_horse'}
+{'tail': 'racecourse', 'count': 5, 'head': 'horse_trainer'}
+billed
+{'tail': 'city', 'count': 15, 'head': 'wrestler'}
+{'tail': 'country', 'count': 11, 'head': 'wrestler'}
+{'tail': 'settlement', 'count': 7, 'head': 'wrestler'}
+{'tail': 'administrative_region', 'count': 1, 'head': 'wrestler'}
+stateOfOrigin
+{'tail': 'country', 'count': 574, 'head': 'person'}
+{'tail': 'ethnic_group', 'count': 286, 'head': 'person'}
+{'tail': 'language', 'count': 5, 'head': 'person'}
+{'tail': 'country', 'count': 4, 'head': 'actor'}
+{'tail': 'country', 'count': 2, 'head': 'screen_writer'}
+{'tail': 'island', 'count': 2, 'head': 'person'}
+{'tail': 'ethnic_group', 'count': 1, 'head': 'office_holder'}
+{'tail': 'ethnic_group', 'count': 1, 'head': 'musical_artist'}
+{'tail': 'country', 'count': 1, 'head': 'writer'}
+{'tail': 'ethnic_group', 'count': 1, 'head': 'screen_writer'}
+party
+{'tail': 'political_party', 'count': 4119, 'head': 'office_holder'}
+{'tail': 'political_party', 'count': 198, 'head': 'politician'}
+{'tail': 'political_party', 'count': 191, 'head': 'president'}
+{'tail': 'political_party', 'count': 180, 'head': 'prime_minister'}
+{'tail': 'political_party', 'count': 178, 'head': 'member_o_fparliament'}
+{'tail': 'political_party', 'count': 151, 'head': 'person'}
+{'tail': 'political_party', 'count': 125, 'head': 'governor'}
+{'tail': 'political_party', 'count': 84, 'head': 'congressman'}
+{'tail': 'political_party', 'count': 65, 'head': 'senator'}
+{'tail': 'political_party', 'count': 17, 'head': 'judge'}
+knownFor
+{'tail': 'television_show', 'count': 220, 'head': 'person'}
+{'tail': 'film', 'count': 51, 'head': 'person'}
+{'tail': 'company', 'count': 40, 'head': 'person'}
+{'tail': 'person', 'count': 15, 'head': 'person'}
+{'tail': 'soccer_club', 'count': 14, 'head': 'person'}
+{'tail': 'military_unit', 'count': 13, 'head': 'scientist'}
+{'tail': 'band', 'count': 12, 'head': 'person'}
+{'tail': 'programming_language', 'count': 11, 'head': 'scientist'}
+{'tail': 'military_conflict', 'count': 10, 'head': 'person'}
+{'tail': 'disease', 'count': 9, 'head': 'scientist'}
+coverArtist
+{'tail': 'artist', 'count': 2, 'head': 'book'}
+formerBroadcastNetwork
+{'tail': 'broadcast_network', 'count': 178, 'head': 'television_station'}
+{'tail': 'television_station', 'count': 33, 'head': 'television_station'}
+{'tail': 'television_show', 'count': 2, 'head': 'television_station'}
+{'tail': 'broadcast_network', 'count': 2, 'head': 'broadcast_network'}
+{'tail': 'company', 'count': 1, 'head': 'television_station'}
+{'tail': 'television_station', 'count': 1, 'head': 'broadcast_network'}
+majorShrine
+{'tail': 'settlement', 'count': 9, 'head': 'saint'}
+{'tail': 'country', 'count': 8, 'head': 'saint'}
+{'tail': 'administrative_region', 'count': 1, 'head': 'saint'}
+{'tail': 'city', 'count': 1, 'head': 'saint'}
+trainer
+{'tail': 'horse_trainer', 'count': 309, 'head': 'race_horse'}
+{'tail': 'jockey', 'count': 87, 'head': 'race_horse'}
+{'tail': 'wrestler', 'count': 13, 'head': 'wrestler'}
+{'tail': 'person', 'count': 3, 'head': 'race_horse'}
+hubAirport
+{'tail': 'airport', 'count': 57, 'head': 'airline'}
+{'tail': 'city', 'count': 20, 'head': 'airline'}
+{'tail': 'settlement', 'count': 13, 'head': 'airline'}
+{'tail': 'country', 'count': 1, 'head': 'airline'}
+{'tail': 'administrative_region', 'count': 1, 'head': 'airline'}
+district
+{'tail': 'settlement', 'count': 455, 'head': 'settlement'}
+{'tail': 'settlement', 'count': 263, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 53, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 51, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 47, 'head': 'town'}
+{'tail': 'city', 'count': 13, 'head': 'settlement'}
+{'tail': 'city', 'count': 10, 'head': 'river'}
+{'tail': 'town', 'count': 10, 'head': 'settlement'}
+{'tail': 'town', 'count': 10, 'head': 'town'}
+{'tail': 'island', 'count': 6, 'head': 'settlement'}
+relatedMeanOfTransportation
+{'tail': 'automobile', 'count': 1673, 'head': 'automobile'}
+{'tail': 'company', 'count': 14, 'head': 'automobile'}
+{'tail': 'country', 'count': 2, 'head': 'automobile'}
+state
+{'tail': 'administrative_region', 'count': 1823, 'head': 'administrative_region'}
+{'tail': 'administrative_region', 'count': 650, 'head': 'university'}
+{'tail': 'administrative_region', 'count': 311, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 259, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 94, 'head': 'school'}
+{'tail': 'settlement', 'count': 80, 'head': 'river'}
+{'tail': 'settlement', 'count': 66, 'head': 'university'}
+{'tail': 'administrative_region', 'count': 28, 'head': 'mountain_range'}
+{'tail': 'administrative_region', 'count': 19, 'head': 'place'}
+{'tail': 'city', 'count': 17, 'head': 'university'}
+subsidiary
+{'tail': 'company', 'count': 364, 'head': 'company'}
+{'tail': 'television_station', 'count': 19, 'head': 'company'}
+{'tail': 'record_label', 'count': 14, 'head': 'company'}
+{'tail': 'broadcast_network', 'count': 8, 'head': 'company'}
+{'tail': 'soccer_club', 'count': 7, 'head': 'company'}
+{'tail': 'bank', 'count': 6, 'head': 'bank'}
+{'tail': 'airline', 'count': 5, 'head': 'company'}
+{'tail': 'hockey_team', 'count': 5, 'head': 'company'}
+{'tail': 'publisher', 'count': 4, 'head': 'company'}
+{'tail': 'bank', 'count': 3, 'head': 'company'}
+leader
+{'tail': 'office_holder', 'count': 196, 'head': 'country'}
+{'tail': 'office_holder', 'count': 98, 'head': 'political_party'}
+{'tail': 'royalty', 'count': 61, 'head': 'country'}
+{'tail': 'office_holder', 'count': 18, 'head': 'government_agency'}
+{'tail': 'prime_minister', 'count': 11, 'head': 'political_party'}
+{'tail': 'member_o_fparliament', 'count': 8, 'head': 'political_party'}
+{'tail': 'office_holder', 'count': 7, 'head': 'legislature'}
+{'tail': 'politician', 'count': 6, 'head': 'political_party'}
+{'tail': 'politician', 'count': 6, 'head': 'country'}
+{'tail': 'president', 'count': 6, 'head': 'country'}
+composer
+{'tail': 'musical_artist', 'count': 1276, 'head': 'television_show'}
+{'tail': 'person', 'count': 499, 'head': 'television_show'}
+{'tail': 'musical_artist', 'count': 83, 'head': 'video_game'}
+{'tail': 'band', 'count': 67, 'head': 'television_show'}
+{'tail': 'musical_artist', 'count': 15, 'head': 'song'}
+{'tail': 'artist', 'count': 7, 'head': 'television_show'}
+{'tail': 'office_holder', 'count': 6, 'head': 'television_show'}
+{'tail': 'person', 'count': 6, 'head': 'video_game'}
+{'tail': 'comedian', 'count': 5, 'head': 'television_show'}
+{'tail': 'writer', 'count': 4, 'head': 'television_show'}
+nationality
+{'tail': 'country', 'count': 586, 'head': 'person'}
+{'tail': 'country', 'count': 580, 'head': 'office_holder'}
+{'tail': 'country', 'count': 536, 'head': 'scientist'}
+{'tail': 'ethnic_group', 'count': 324, 'head': 'office_holder'}
+{'tail': 'ethnic_group', 'count': 286, 'head': 'person'}
+{'tail': 'country', 'count': 184, 'head': 'writer'}
+{'tail': 'ethnic_group', 'count': 109, 'head': 'writer'}
+{'tail': 'ethnic_group', 'count': 86, 'head': 'scientist'}
+{'tail': 'country', 'count': 65, 'head': 'artist'}
+{'tail': 'country', 'count': 59, 'head': 'president'}
+previousEvent
+{'tail': 'olympic_event', 'count': 126, 'head': 'olympic_event'}
+{'tail': 'wrestling_event', 'count': 31, 'head': 'wrestling_event'}
+{'tail': 'television_show', 'count': 1, 'head': 'mixed_martia_lar_tsevent'}
+outflow
+{'tail': 'river', 'count': 15, 'head': 'lake'}
+{'tail': 'sea', 'count': 2, 'head': 'sea'}
+{'tail': 'body_o_fwater', 'count': 1, 'head': 'body_o_fwater'}
+{'tail': 'river', 'count': 1, 'head': 'body_o_fwater'}
+{'tail': 'sea', 'count': 1, 'head': 'lake'}
+{'tail': 'river', 'count': 1, 'head': 'dam'}
+militaryBranch
+{'tail': 'military_unit', 'count': 804, 'head': 'office_holder'}
+{'tail': 'military_unit', 'count': 477, 'head': 'military_person'}
+{'tail': 'military_unit', 'count': 425, 'head': 'military_unit'}
+{'tail': 'military_unit', 'count': 97, 'head': 'governor'}
+{'tail': 'military_unit', 'count': 67, 'head': 'congressman'}
+{'tail': 'military_unit', 'count': 48, 'head': 'president'}
+{'tail': 'military_unit', 'count': 41, 'head': 'senator'}
+{'tail': 'military_unit', 'count': 38, 'head': 'politician'}
+{'tail': 'military_unit', 'count': 32, 'head': 'member_o_fparliament'}
+{'tail': 'military_unit', 'count': 29, 'head': 'prime_minister'}
+metropolitanBorough
+{'tail': 'settlement', 'count': 87, 'head': 'settlement'}
+{'tail': 'city', 'count': 42, 'head': 'settlement'}
+{'tail': 'town', 'count': 2, 'head': 'settlement'}
+currentMember
+{'tail': 'soccer_player', 'count': 141, 'head': 'sports_tea_mmember'}
+{'tail': 'soccer_manager', 'count': 129, 'head': 'sports_tea_mmember'}
+{'tail': 'person', 'count': 5, 'head': 'sports_tea_mmember'}
+{'tail': 'office_holder', 'count': 3, 'head': 'sports_tea_mmember'}
+{'tail': 'musical_artist', 'count': 2, 'head': 'sports_tea_mmember'}
+{'tail': 'actor', 'count': 2, 'head': 'band'}
+river
+{'tail': 'river', 'count': 50, 'head': 'settlement'}
+{'tail': 'river', 'count': 2, 'head': 'place'}
+{'tail': 'river', 'count': 1, 'head': 'valley'}
+debutTeam
+{'tail': 'american_footbal_lteam', 'count': 2, 'head': 'american_footbal_lplayer'}
+primeMinister
+{'tail': 'office_holder', 'count': 2517, 'head': 'office_holder'}
+{'tail': 'prime_minister', 'count': 671, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 137, 'head': 'politician'}
+{'tail': 'prime_minister', 'count': 122, 'head': 'prime_minister'}
+{'tail': 'office_holder', 'count': 114, 'head': 'member_o_fparliament'}
+{'tail': 'office_holder', 'count': 101, 'head': 'president'}
+{'tail': 'office_holder', 'count': 84, 'head': 'prime_minister'}
+{'tail': 'president', 'count': 57, 'head': 'office_holder'}
+{'tail': 'prime_minister', 'count': 54, 'head': 'president'}
+{'tail': 'prime_minister', 'count': 40, 'head': 'member_o_fparliament'}
+growingGrape
+{'tail': 'grape', 'count': 1146, 'head': 'wine_region'}
+parent
+{'tail': 'person', 'count': 345, 'head': 'person'}
+{'tail': 'royalty', 'count': 332, 'head': 'royalty'}
+{'tail': 'office_holder', 'count': 53, 'head': 'person'}
+{'tail': 'musical_artist', 'count': 20, 'head': 'person'}
+{'tail': 'writer', 'count': 12, 'head': 'person'}
+{'tail': 'royalty', 'count': 5, 'head': 'person'}
+{'tail': 'screen_writer', 'count': 4, 'head': 'person'}
+{'tail': 'scientist', 'count': 4, 'head': 'person'}
+{'tail': 'president', 'count': 3, 'head': 'person'}
+{'tail': 'monarch', 'count': 2, 'head': 'royalty'}
+mountainRange
+{'tail': 'mountain_range', 'count': 9, 'head': 'mountain'}
+{'tail': 'protected_area', 'count': 6, 'head': 'mountain'}
+{'tail': 'mountain_range', 'count': 2, 'head': 'volcano'}
+portrayer
+{'tail': 'person', 'count': 366, 'head': 'fictional_character'}
+{'tail': 'television_show', 'count': 27, 'head': 'fictional_character'}
+{'tail': 'film', 'count': 9, 'head': 'fictional_character'}
+{'tail': 'person', 'count': 7, 'head': 'soap_character'}
+{'tail': 'comedian', 'count': 4, 'head': 'fictional_character'}
+{'tail': 'television_episode', 'count': 2, 'head': 'fictional_character'}
+{'tail': 'musical_artist', 'count': 2, 'head': 'fictional_character'}
+{'tail': 'actor', 'count': 1, 'head': 'fictional_character'}
+{'tail': 'office_holder', 'count': 1, 'head': 'fictional_character'}
+servingRailwayLine
+{'tail': 'railway_line', 'count': 23, 'head': 'station'}
+{'tail': 'settlement', 'count': 1, 'head': 'railway_station'}
+related
+{'tail': 'television_show', 'count': 1034, 'head': 'television_show'}
+{'tail': 'ethnic_group', 'count': 1001, 'head': 'ethnic_group'}
+{'tail': 'film', 'count': 14, 'head': 'television_show'}
+{'tail': 'country', 'count': 6, 'head': 'ethnic_group'}
+{'tail': 'settlement', 'count': 5, 'head': 'ethnic_group'}
+{'tail': 'television_station', 'count': 5, 'head': 'television_show'}
+{'tail': 'continent', 'count': 5, 'head': 'ethnic_group'}
+{'tail': 'island', 'count': 4, 'head': 'ethnic_group'}
+{'tail': 'company', 'count': 3, 'head': 'television_show'}
+{'tail': 'beverage', 'count': 3, 'head': 'beverage'}
+headquarter
+{'tail': 'city', 'count': 350, 'head': 'television_station'}
+{'tail': 'country', 'count': 274, 'head': 'television_station'}
+{'tail': 'city', 'count': 237, 'head': 'political_party'}
+{'tail': 'settlement', 'count': 187, 'head': 'television_station'}
+{'tail': 'settlement', 'count': 171, 'head': 'political_party'}
+{'tail': 'country', 'count': 141, 'head': 'political_party'}
+{'tail': 'administrative_region', 'count': 99, 'head': 'television_station'}
+{'tail': 'settlement', 'count': 64, 'head': 'organisation'}
+{'tail': 'settlement', 'count': 58, 'head': 'government_agency'}
+{'tail': 'country', 'count': 52, 'head': 'organisation'}
+class
+{'tail': 'fungus', 'count': 53, 'head': 'fungus'}
+{'tail': 'automobile', 'count': 12, 'head': 'automobile'}
+{'tail': 'crustacean', 'count': 9, 'head': 'crustacean'}
+{'tail': 'conifer', 'count': 7, 'head': 'conifer'}
+{'tail': 'bacteria', 'count': 4, 'head': 'species'}
+{'tail': 'bacteria', 'count': 4, 'head': 'bacteria'}
+{'tail': 'animal', 'count': 4, 'head': 'animal'}
+{'tail': 'moss', 'count': 3, 'head': 'moss'}
+{'tail': 'cycad', 'count': 2, 'head': 'cycad'}
+{'tail': 'club_moss', 'count': 2, 'head': 'club_moss'}
+deathCause
+{'tail': 'disease', 'count': 621, 'head': 'person'}
+{'tail': 'disease', 'count': 4, 'head': 'scientist'}
+{'tail': 'disease', 'count': 2, 'head': 'baseball_player'}
+{'tail': 'disease', 'count': 2, 'head': 'actor'}
+{'tail': 'military_conflict', 'count': 2, 'head': 'person'}
+{'tail': 'disease', 'count': 1, 'head': 'poker_player'}
+{'tail': 'species', 'count': 1, 'head': 'person'}
+{'tail': 'disease', 'count': 1, 'head': 'office_holder'}
+{'tail': 'disease', 'count': 1, 'head': 'musical_artist'}
+{'tail': 'country', 'count': 1, 'head': 'person'}
+lieutenancyArea
+{'tail': 'settlement', 'count': 10, 'head': 'settlement'}
+{'tail': 'island', 'count': 3, 'head': 'settlement'}
+{'tail': 'city', 'count': 2, 'head': 'settlement'}
+militaryRank
+{'tail': 'country', 'count': 4, 'head': 'office_holder'}
+{'tail': 'military_conflict', 'count': 2, 'head': 'office_holder'}
+{'tail': 'military_unit', 'count': 2, 'head': 'governor'}
+{'tail': 'military_unit', 'count': 1, 'head': 'office_holder'}
+{'tail': 'military_conflict', 'count': 1, 'head': 'governor'}
+{'tail': 'government_agency', 'count': 1, 'head': 'office_holder'}
+ideology
+{'tail': 'country', 'count': 9, 'head': 'political_party'}
+{'tail': 'ethnic_group', 'count': 3, 'head': 'political_party'}
+{'tail': 'office_holder', 'count': 2, 'head': 'political_party'}
+{'tail': 'political_party', 'count': 1, 'head': 'political_party'}
+{'tail': 'military_conflict', 'count': 1, 'head': 'political_party'}
+{'tail': 'prime_minister', 'count': 1, 'head': 'political_party'}
+language
+{'tail': 'language', 'count': 1470, 'head': 'ethnic_group'}
+{'tail': 'language', 'count': 1100, 'head': 'television_show'}
+{'tail': 'language', 'count': 820, 'head': 'film'}
+{'tail': 'language', 'count': 714, 'head': 'software'}
+{'tail': 'language', 'count': 558, 'head': 'television_station'}
+{'tail': 'language', 'count': 414, 'head': 'country'}
+{'tail': 'language', 'count': 228, 'head': 'website'}
+{'tail': 'language', 'count': 128, 'head': 'album'}
+{'tail': 'language', 'count': 110, 'head': 'company'}
+{'tail': 'language', 'count': 82, 'head': 'writer'}
+rdf-schema#seeAlso
+{'tail': 'n____caa_teamseason', 'count': 2296, 'head': 'n____caa_teamseason'}
+{'tail': 'country', 'count': 824, 'head': 'settlement'}
+{'tail': 'year', 'count': 565, 'head': 'office_holder'}
+{'tail': 'country', 'count': 314, 'head': 'city'}
+{'tail': 'administrative_region', 'count': 287, 'head': 'city'}
+{'tail': 'country', 'count': 173, 'head': 'town'}
+{'tail': 'administrative_region', 'count': 161, 'head': 'office_holder'}
+{'tail': 'administrative_region', 'count': 103, 'head': 'settlement'}
+{'tail': 'band', 'count': 96, 'head': 'musical_artist'}
+{'tail': 'settlement', 'count': 94, 'head': 'settlement'}
+routeJunction
+{'tail': 'road', 'count': 597, 'head': 'road'}
+{'tail': 'city', 'count': 539, 'head': 'road'}
+{'tail': 'settlement', 'count': 221, 'head': 'road'}
+{'tail': 'town', 'count': 76, 'head': 'road'}
+{'tail': 'village', 'count': 7, 'head': 'road'}
+{'tail': 'administrative_region', 'count': 4, 'head': 'road'}
+{'tail': 'airport', 'count': 2, 'head': 'road'}
+{'tail': 'protected_area', 'count': 1, 'head': 'road'}
+{'tail': 'place', 'count': 1, 'head': 'road'}
+affiliation
+{'tail': 'organisation', 'count': 1049, 'head': 'university'}
+{'tail': 'university', 'count': 182, 'head': 'university'}
+{'tail': 'trade_union', 'count': 42, 'head': 'university'}
+{'tail': 'organisation', 'count': 26, 'head': 'organisation'}
+{'tail': 'government_agency', 'count': 25, 'head': 'university'}
+{'tail': 'political_party', 'count': 18, 'head': 'political_party'}
+{'tail': 'university', 'count': 12, 'head': 'school'}
+{'tail': 'trade_union', 'count': 7, 'head': 'trade_union'}
+{'tail': 'organisation', 'count': 6, 'head': 'school'}
+{'tail': 'company', 'count': 4, 'head': 'university'}
+sourcePlace
+{'tail': 'settlement', 'count': 39, 'head': 'river'}
+{'tail': 'mountain_range', 'count': 36, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 30, 'head': 'river'}
+{'tail': 'city', 'count': 26, 'head': 'river'}
+{'tail': 'town', 'count': 10, 'head': 'river'}
+{'tail': 'river', 'count': 10, 'head': 'river'}
+{'tail': 'protected_area', 'count': 4, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 4, 'head': 'place'}
+{'tail': 'country', 'count': 3, 'head': 'river'}
+{'tail': 'mountain', 'count': 2, 'head': 'river'}
+leaderFunction
+{'tail': 'person_function', 'count': 1, 'head': 'organisation'}
+nearestCity
+{'tail': 'city', 'count': 44, 'head': 'lake'}
+{'tail': 'city', 'count': 34, 'head': 'body_o_fwater'}
+{'tail': 'settlement', 'count': 34, 'head': 'sea'}
+{'tail': 'settlement', 'count': 33, 'head': 'lake'}
+{'tail': 'city', 'count': 31, 'head': 'sea'}
+{'tail': 'city', 'count': 15, 'head': 'protected_area'}
+{'tail': 'settlement', 'count': 14, 'head': 'body_o_fwater'}
+{'tail': 'town', 'count': 12, 'head': 'lake'}
+{'tail': 'settlement', 'count': 5, 'head': 'protected_area'}
+{'tail': 'administrative_region', 'count': 4, 'head': 'sea'}
+residence
+{'tail': 'city', 'count': 622, 'head': 'person'}
+{'tail': 'settlement', 'count': 387, 'head': 'person'}
+{'tail': 'city', 'count': 384, 'head': 'office_holder'}
+{'tail': 'country', 'count': 327, 'head': 'scientist'}
+{'tail': 'administrative_region', 'count': 275, 'head': 'person'}
+{'tail': 'country', 'count': 274, 'head': 'person'}
+{'tail': 'settlement', 'count': 195, 'head': 'office_holder'}
+{'tail': 'country', 'count': 172, 'head': 'office_holder'}
+{'tail': 'administrative_region', 'count': 167, 'head': 'office_holder'}
+{'tail': 'city', 'count': 81, 'head': 'scientist'}
+profession
+{'tail': 'military_unit', 'count': 6, 'head': 'office_holder'}
+{'tail': 'military_unit', 'count': 5, 'head': 'governor'}
+{'tail': 'university', 'count': 2, 'head': 'office_holder'}
+{'tail': 'sport', 'count': 1, 'head': 'governor'}
+{'tail': 'organisation', 'count': 1, 'head': 'office_holder'}
+{'tail': 'sport', 'count': 1, 'head': 'office_holder'}
+{'tail': 'country', 'count': 1, 'head': 'office_holder'}
+{'tail': 'military_unit', 'count': 1, 'head': 'politician'}
+{'tail': 'organisation', 'count': 1, 'head': 'judge'}
+grandsire
+{'tail': 'race_horse', 'count': 429, 'head': 'race_horse'}
+picture
+{'tail': 'band', 'count': 8, 'head': 'single'}
+{'tail': 'musical_artist', 'count': 6, 'head': 'album'}
+{'tail': 'person', 'count': 5, 'head': 'single'}
+{'tail': 'musical_artist', 'count': 4, 'head': 'single'}
+{'tail': 'person', 'count': 3, 'head': 'album'}
+{'tail': 'band', 'count': 2, 'head': 'album'}
+{'tail': 'single', 'count': 1, 'head': 'album'}
+{'tail': 'city', 'count': 1, 'head': 'building'}
+{'tail': 'single', 'count': 1, 'head': 'single'}
+{'tail': 'settlement', 'count': 1, 'head': 'theatre'}
+city
+{'tail': 'city', 'count': 860, 'head': 'university'}
+{'tail': 'city', 'count': 461, 'head': 'radio_station'}
+{'tail': 'settlement', 'count': 404, 'head': 'university'}
+{'tail': 'city', 'count': 380, 'head': 'road'}
+{'tail': 'city', 'count': 357, 'head': 'river'}
+{'tail': 'settlement', 'count': 225, 'head': 'river'}
+{'tail': 'settlement', 'count': 222, 'head': 'road'}
+{'tail': 'administrative_region', 'count': 120, 'head': 'radio_station'}
+{'tail': 'settlement', 'count': 88, 'head': 'radio_station'}
+{'tail': 'city', 'count': 71, 'head': 'school'}
+arrondissement
+{'tail': 'settlement', 'count': 42, 'head': 'settlement'}
+{'tail': 'city', 'count': 2, 'head': 'settlement'}
+author
+{'tail': 'person', 'count': 509, 'head': 'television_show'}
+{'tail': 'writer', 'count': 208, 'head': 'television_show'}
+{'tail': 'comedian', 'count': 45, 'head': 'television_show'}
+{'tail': 'comics_creator', 'count': 43, 'head': 'television_show'}
+{'tail': 'screen_writer', 'count': 23, 'head': 'television_show'}
+{'tail': 'writer', 'count': 18, 'head': 'book'}
+{'tail': 'musical_artist', 'count': 15, 'head': 'television_show'}
+{'tail': 'company', 'count': 9, 'head': 'software'}
+{'tail': 'person', 'count': 5, 'head': 'musical'}
+{'tail': 'comedian', 'count': 5, 'head': 'book'}
+location
+{'tail': 'country', 'count': 925, 'head': 'company'}
+{'tail': 'city', 'count': 882, 'head': 'company'}
+{'tail': 'city', 'count': 822, 'head': 'television_show'}
+{'tail': 'country', 'count': 534, 'head': 'television_show'}
+{'tail': 'city', 'count': 451, 'head': 'record_label'}
+{'tail': 'settlement', 'count': 446, 'head': 'television_show'}
+{'tail': 'settlement', 'count': 434, 'head': 'company'}
+{'tail': 'racecourse', 'count': 321, 'head': 'horse_race'}
+{'tail': 'administrative_region', 'count': 278, 'head': 'company'}
+{'tail': 'country', 'count': 273, 'head': 'horse_race'}
+musicBy
+{'tail': 'musical_artist', 'count': 7, 'head': 'musical'}
+{'tail': 'person', 'count': 3, 'head': 'musical'}
+training
+{'tail': 'university', 'count': 36, 'head': 'artist'}
+{'tail': 'artist', 'count': 8, 'head': 'artist'}
+{'tail': 'school', 'count': 2, 'head': 'artist'}
+{'tail': 'scientist', 'count': 1, 'head': 'artist'}
+{'tail': 'university', 'count': 1, 'head': 'musical_artist'}
+{'tail': 'college', 'count': 1, 'head': 'artist'}
+ceremonialCounty
+{'tail': 'administrative_region', 'count': 124, 'head': 'settlement'}
+{'tail': 'settlement', 'count': 8, 'head': 'settlement'}
+{'tail': 'city', 'count': 1, 'head': 'settlement'}
+schoolBoard
+{'tail': 'organisation', 'count': 4, 'head': 'school'}
+{'tail': 'government_agency', 'count': 1, 'head': 'school'}
+province
+{'tail': 'settlement', 'count': 126, 'head': 'settlement'}
+{'tail': 'city', 'count': 15, 'head': 'settlement'}
+{'tail': 'settlement', 'count': 2, 'head': 'diocese'}
+manager
+{'tail': 'soccer_manager', 'count': 63, 'head': 'soccer_club'}
+mainInterest
+{'tail': 'philosopher', 'count': 1, 'head': 'philosopher'}
+{'tail': 'disease', 'count': 1, 'head': 'philosopher'}
+{'tail': 'person', 'count': 1, 'head': 'philosopher'}
+birthPlace
+{'tail': 'city', 'count': 4422, 'head': 'person'}
+{'tail': 'city', 'count': 3452, 'head': 'musical_artist'}
+{'tail': 'country', 'count': 3058, 'head': 'person'}
+{'tail': 'country', 'count': 3019, 'head': 'office_holder'}
+{'tail': 'settlement', 'count': 2872, 'head': 'person'}
+{'tail': 'country', 'count': 2068, 'head': 'musical_artist'}
+{'tail': 'administrative_region', 'count': 1845, 'head': 'person'}
+{'tail': 'settlement', 'count': 1827, 'head': 'musical_artist'}
+{'tail': 'city', 'count': 1771, 'head': 'office_holder'}
+{'tail': 'administrative_region', 'count': 1585, 'head': 'office_holder'}
+showJudge
+{'tail': 'musical_artist', 'count': 152, 'head': 'television_show'}
+{'tail': 'person', 'count': 124, 'head': 'television_show'}
+{'tail': 'actor', 'count': 5, 'head': 'television_show'}
+{'tail': 'comedian', 'count': 4, 'head': 'television_show'}
+{'tail': 'band', 'count': 3, 'head': 'television_show'}
+{'tail': 'company', 'count': 1, 'head': 'television_show'}
+{'tail': 'office_holder', 'count': 1, 'head': 'television_show'}
+{'tail': 'writer', 'count': 1, 'head': 'television_show'}
+{'tail': 'record_label', 'count': 1, 'head': 'television_show'}
+recordedIn
+{'tail': 'city', 'count': 625, 'head': 'single'}
+{'tail': 'city', 'count': 556, 'head': 'album'}
+{'tail': 'settlement', 'count': 392, 'head': 'single'}
+{'tail': 'settlement', 'count': 295, 'head': 'album'}
+{'tail': 'administrative_region', 'count': 262, 'head': 'single'}
+{'tail': 'country', 'count': 225, 'head': 'single'}
+{'tail': 'administrative_region', 'count': 177, 'head': 'album'}
+{'tail': 'country', 'count': 148, 'head': 'album'}
+{'tail': 'venue', 'count': 39, 'head': 'single'}
+{'tail': 'building', 'count': 30, 'head': 'single'}
+successor
+{'tail': 'office_holder', 'count': 5242, 'head': 'office_holder'}
+{'tail': 'automobile', 'count': 521, 'head': 'automobile'}
+{'tail': 'royalty', 'count': 274, 'head': 'royalty'}
+{'tail': 'company', 'count': 253, 'head': 'company'}
+{'tail': 'office_holder', 'count': 218, 'head': 'prime_minister'}
+{'tail': 'prime_minister', 'count': 186, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 185, 'head': 'politician'}
+{'tail': 'office_holder', 'count': 171, 'head': 'president'}
+{'tail': 'politician', 'count': 163, 'head': 'office_holder'}
+{'tail': 'president', 'count': 135, 'head': 'office_holder'}
+previousWork
+{'tail': 'single', 'count': 1273, 'head': 'single'}
+{'tail': 'television_show', 'count': 533, 'head': 'television_show'}
+{'tail': 'album', 'count': 439, 'head': 'album'}
+{'tail': 'television_episode', 'count': 231, 'head': 'television_episode'}
+{'tail': 'film', 'count': 14, 'head': 'television_show'}
+{'tail': 'musical_artist', 'count': 8, 'head': 'single'}
+{'tail': 'single', 'count': 7, 'head': 'song'}
+{'tail': 'band', 'count': 3, 'head': 'album'}
+{'tail': 'band', 'count': 3, 'head': 'single'}
+{'tail': 'person', 'count': 3, 'head': 'television_show'}
+archipelago
+{'tail': 'country', 'count': 14, 'head': 'island'}
+{'tail': 'island', 'count': 8, 'head': 'island'}
+{'tail': 'settlement', 'count': 8, 'head': 'island'}
+restingPlace
+{'tail': 'city', 'count': 142, 'head': 'person'}
+{'tail': 'settlement', 'count': 99, 'head': 'royalty'}
+{'tail': 'administrative_region', 'count': 98, 'head': 'person'}
+{'tail': 'city', 'count': 95, 'head': 'office_holder'}
+{'tail': 'country', 'count': 86, 'head': 'royalty'}
+{'tail': 'city', 'count': 69, 'head': 'military_person'}
+{'tail': 'settlement', 'count': 59, 'head': 'person'}
+{'tail': 'administrative_region', 'count': 59, 'head': 'office_holder'}
+{'tail': 'city', 'count': 59, 'head': 'royalty'}
+{'tail': 'administrative_region', 'count': 55, 'head': 'military_person'}
+programmingLanguage
+{'tail': 'programming_language', 'count': 214, 'head': 'software'}
+{'tail': 'software', 'count': 2, 'head': 'software'}
+{'tail': 'language', 'count': 1, 'head': 'software'}
+{'tail': 'information_appliance', 'count': 1, 'head': 'software'}
+developer
+{'tail': 'company', 'count': 275, 'head': 'video_game'}
+{'tail': 'person', 'count': 135, 'head': 'television_show'}
+{'tail': 'company', 'count': 90, 'head': 'software'}
+{'tail': 'company', 'count': 56, 'head': 'television_show'}
+{'tail': 'writer', 'count': 35, 'head': 'television_show'}
+{'tail': 'information_appliance', 'count': 26, 'head': 'video_game'}
+{'tail': 'television_station', 'count': 15, 'head': 'television_show'}
+{'tail': 'company', 'count': 11, 'head': 'programming_language'}
+{'tail': 'musical_artist', 'count': 10, 'head': 'television_show'}
+{'tail': 'comics_creator', 'count': 9, 'head': 'television_show'}
+distributingLabel
+{'tail': 'record_label', 'count': 513, 'head': 'record_label'}
+{'tail': 'company', 'count': 351, 'head': 'record_label'}
+{'tail': 'software', 'count': 3, 'head': 'record_label'}
+{'tail': 'publisher', 'count': 2, 'head': 'record_label'}
+{'tail': 'television_station', 'count': 1, 'head': 'record_label'}
+{'tail': 'broadcast_network', 'count': 1, 'head': 'record_label'}
+leftTributary
+{'tail': 'river', 'count': 100, 'head': 'river'}
+{'tail': 'settlement', 'count': 1, 'head': 'river'}
+board
+{'tail': 'company', 'count': 35, 'head': 'person'}
+{'tail': 'trade_union', 'count': 10, 'head': 'person'}
+{'tail': 'university', 'count': 6, 'head': 'person'}
+{'tail': 'organisation', 'count': 4, 'head': 'person'}
+{'tail': 'museum', 'count': 4, 'head': 'person'}
+{'tail': 'building', 'count': 3, 'head': 'person'}
+{'tail': 'hockey_team', 'count': 2, 'head': 'person'}
+{'tail': 'bank', 'count': 2, 'head': 'person'}
+{'tail': 'horse_race', 'count': 2, 'head': 'person'}
+{'tail': 'airline', 'count': 1, 'head': 'person'}
+relative
+{'tail': 'person', 'count': 718, 'head': 'person'}
+{'tail': 'fictional_character', 'count': 184, 'head': 'fictional_character'}
+{'tail': 'office_holder', 'count': 66, 'head': 'person'}
+{'tail': 'musical_artist', 'count': 46, 'head': 'person'}
+{'tail': 'person', 'count': 16, 'head': 'writer'}
+{'tail': 'writer', 'count': 12, 'head': 'person'}
+{'tail': 'writer', 'count': 9, 'head': 'writer'}
+{'tail': 'office_holder', 'count': 5, 'head': 'writer'}
+{'tail': 'television_show', 'count': 4, 'head': 'fictional_character'}
+{'tail': 'royalty', 'count': 4, 'head': 'person'}
+distributor
+{'tail': 'company', 'count': 1961, 'head': 'television_show'}
+{'tail': 'company', 'count': 1636, 'head': 'film'}
+{'tail': 'broadcast_network', 'count': 127, 'head': 'television_show'}
+{'tail': 'television_station', 'count': 83, 'head': 'television_show'}
+{'tail': 'company', 'count': 52, 'head': 'video_game'}
+{'tail': 'broadcast_network', 'count': 13, 'head': 'film'}
+{'tail': 'person', 'count': 10, 'head': 'film'}
+{'tail': 'television_station', 'count': 10, 'head': 'film'}
+{'tail': 'company', 'count': 7, 'head': 'hollywood_cartoon'}
+{'tail': 'software', 'count': 6, 'head': 'video_game'}
+languageFamily
+{'tail': 'language', 'count': 33, 'head': 'language'}
+part
+{'tail': 'settlement', 'count': 2643, 'head': 'settlement'}
+{'tail': 'city', 'count': 179, 'head': 'settlement'}
+{'tail': 'settlement', 'count': 73, 'head': 'city'}
+{'tail': 'town', 'count': 32, 'head': 'settlement'}
+{'tail': 'settlement', 'count': 27, 'head': 'administrative_region'}
+{'tail': 'city', 'count': 20, 'head': 'city'}
+{'tail': 'administrative_region', 'count': 18, 'head': 'settlement'}
+{'tail': 'city', 'count': 7, 'head': 'administrative_region'}
+{'tail': 'administrative_region', 'count': 5, 'head': 'city'}
+{'tail': 'administrative_region', 'count': 4, 'head': 'administrative_region'}
+starring
+{'tail': 'person', 'count': 9382, 'head': 'film'}
+{'tail': 'person', 'count': 5948, 'head': 'television_show'}
+{'tail': 'actor', 'count': 420, 'head': 'television_show'}
+{'tail': 'musical_artist', 'count': 298, 'head': 'film'}
+{'tail': 'comedian', 'count': 284, 'head': 'film'}
+{'tail': 'actor', 'count': 277, 'head': 'film'}
+{'tail': 'musical_artist', 'count': 274, 'head': 'television_show'}
+{'tail': 'comedian', 'count': 250, 'head': 'television_show'}
+{'tail': 'office_holder', 'count': 82, 'head': 'film'}
+{'tail': 'office_holder', 'count': 55, 'head': 'television_show'}
+commander
+{'tail': 'office_holder', 'count': 1489, 'head': 'military_conflict'}
+{'tail': 'military_person', 'count': 1321, 'head': 'military_conflict'}
+{'tail': 'royalty', 'count': 539, 'head': 'military_conflict'}
+{'tail': 'president', 'count': 179, 'head': 'military_conflict'}
+{'tail': 'prime_minister', 'count': 112, 'head': 'military_conflict'}
+{'tail': 'governor', 'count': 48, 'head': 'military_conflict'}
+{'tail': 'person', 'count': 39, 'head': 'military_conflict'}
+{'tail': 'politician', 'count': 37, 'head': 'military_conflict'}
+{'tail': 'military_unit', 'count': 31, 'head': 'military_conflict'}
+{'tail': 'office_holder', 'count': 25, 'head': 'military_unit'}
+breeder
+{'tail': 'person', 'count': 81, 'head': 'race_horse'}
+{'tail': 'company', 'count': 69, 'head': 'race_horse'}
+{'tail': 'office_holder', 'count': 14, 'head': 'race_horse'}
+{'tail': 'religious', 'count': 9, 'head': 'race_horse'}
+{'tail': 'royalty', 'count': 8, 'head': 'race_horse'}
+{'tail': 'jockey', 'count': 5, 'head': 'race_horse'}
+{'tail': 'politician', 'count': 5, 'head': 'race_horse'}
+{'tail': 'horse_trainer', 'count': 4, 'head': 'race_horse'}
+{'tail': 'prime_minister', 'count': 2, 'head': 'race_horse'}
+deathPlace
+{'tail': 'city', 'count': 1550, 'head': 'person'}
+{'tail': 'country', 'count': 1255, 'head': 'office_holder'}
+{'tail': 'settlement', 'count': 1066, 'head': 'person'}
+{'tail': 'city', 'count': 1010, 'head': 'office_holder'}
+{'tail': 'country', 'count': 1002, 'head': 'person'}
+{'tail': 'settlement', 'count': 872, 'head': 'office_holder'}
+{'tail': 'administrative_region', 'count': 745, 'head': 'person'}
+{'tail': 'city', 'count': 743, 'head': 'musical_artist'}
+{'tail': 'administrative_region', 'count': 680, 'head': 'office_holder'}
+{'tail': 'country', 'count': 371, 'head': 'scientist'}
+museum
+{'tail': 'museum', 'count': 3, 'head': 'artwork'}
+education
+{'tail': 'university', 'count': 316, 'head': 'person'}
+{'tail': 'school', 'count': 73, 'head': 'person'}
+{'tail': 'university', 'count': 35, 'head': 'writer'}
+{'tail': 'settlement', 'count': 19, 'head': 'person'}
+{'tail': 'administrative_region', 'count': 18, 'head': 'person'}
+{'tail': 'city', 'count': 17, 'head': 'person'}
+{'tail': 'university', 'count': 8, 'head': 'engineer'}
+{'tail': 'school', 'count': 8, 'head': 'writer'}
+{'tail': 'country', 'count': 5, 'head': 'person'}
+{'tail': 'college', 'count': 4, 'head': 'person'}
+programmeFormat
+{'tail': 'music_genre', 'count': 179, 'head': 'radio_station'}
+{'tail': 'radio_station', 'count': 33, 'head': 'radio_station'}
+{'tail': 'language', 'count': 12, 'head': 'radio_station'}
+{'tail': 'broadcast_network', 'count': 8, 'head': 'radio_station'}
+{'tail': 'television_station', 'count': 3, 'head': 'radio_station'}
+{'tail': 'american_footbal_lteam', 'count': 2, 'head': 'radio_station'}
+{'tail': 'band', 'count': 1, 'head': 'radio_station'}
+{'tail': 'ethnic_group', 'count': 1, 'head': 'radio_station'}
+followingEvent
+{'tail': 'wrestling_event', 'count': 28, 'head': 'wrestling_event'}
+deputy
+{'tail': 'office_holder', 'count': 392, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 28, 'head': 'prime_minister'}
+{'tail': 'politician', 'count': 21, 'head': 'office_holder'}
+{'tail': 'member_o_fparliament', 'count': 21, 'head': 'office_holder'}
+{'tail': 'prime_minister', 'count': 20, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 16, 'head': 'politician'}
+{'tail': 'prime_minister', 'count': 11, 'head': 'prime_minister'}
+{'tail': 'president', 'count': 8, 'head': 'office_holder'}
+{'tail': 'politician', 'count': 7, 'head': 'politician'}
+{'tail': 'member_o_fparliament', 'count': 6, 'head': 'prime_minister'}
+depiction
+{'tail': 'company', 'count': 1, 'head': 'company'}
+{'tail': 'protected_area', 'count': 1, 'head': 'eukaryote'}
+{'tail': 'continent', 'count': 1, 'head': 'company'}
+locationCountry
+{'tail': 'country', 'count': 865, 'head': 'television_station'}
+{'tail': 'country', 'count': 856, 'head': 'company'}
+{'tail': 'country', 'count': 127, 'head': 'broadcast_network'}
+{'tail': 'country', 'count': 38, 'head': 'bank'}
+{'tail': 'continent', 'count': 11, 'head': 'television_station'}
+{'tail': 'city', 'count': 8, 'head': 'company'}
+{'tail': 'settlement', 'count': 5, 'head': 'company'}
+{'tail': 'country', 'count': 3, 'head': 'record_label'}
+{'tail': 'administrative_region', 'count': 2, 'head': 'company'}
+{'tail': 'city', 'count': 1, 'head': 'television_station'}
+locatedInArea
+{'tail': 'country', 'count': 15, 'head': 'mountain'}
+{'tail': 'settlement', 'count': 6, 'head': 'mountain'}
+{'tail': 'administrative_region', 'count': 5, 'head': 'mountain'}
+{'tail': 'administrative_region', 'count': 4, 'head': 'volcano'}
+{'tail': 'country', 'count': 2, 'head': 'volcano'}
+{'tail': 'protected_area', 'count': 1, 'head': 'volcano'}
+{'tail': 'continent', 'count': 1, 'head': 'place'}
+stylisticOrigin
+{'tail': 'music_genre', 'count': 2007, 'head': 'music_genre'}
+{'tail': 'country', 'count': 2, 'head': 'music_genre'}
+{'tail': 'continent', 'count': 2, 'head': 'music_genre'}
+{'tail': 'record_label', 'count': 1, 'head': 'music_genre'}
+{'tail': 'sport', 'count': 1, 'head': 'music_genre'}
+{'tail': 'settlement', 'count': 1, 'head': 'music_genre'}
+{'tail': 'world_heritag_esite', 'count': 1, 'head': 'music_genre'}
+{'tail': 'city', 'count': 1, 'head': 'music_genre'}
+lyrics
+{'tail': 'person', 'count': 6, 'head': 'musical'}
+{'tail': 'musical_artist', 'count': 5, 'head': 'musical'}
+spokenIn
+{'tail': 'country', 'count': 555, 'head': 'language'}
+{'tail': 'settlement', 'count': 172, 'head': 'language'}
+{'tail': 'administrative_region', 'count': 45, 'head': 'language'}
+{'tail': 'city', 'count': 22, 'head': 'language'}
+{'tail': 'island', 'count': 14, 'head': 'language'}
+{'tail': 'ethnic_group', 'count': 7, 'head': 'language'}
+{'tail': 'language', 'count': 5, 'head': 'language'}
+{'tail': 'continent', 'count': 5, 'head': 'language'}
+{'tail': 'place', 'count': 3, 'head': 'language'}
+{'tail': 'sea', 'count': 1, 'head': 'language'}
+mouthPlace
+{'tail': 'city', 'count': 74, 'head': 'river'}
+{'tail': 'settlement', 'count': 73, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 41, 'head': 'river'}
+{'tail': 'river', 'count': 28, 'head': 'river'}
+{'tail': 'town', 'count': 16, 'head': 'river'}
+{'tail': 'body_o_fwater', 'count': 14, 'head': 'river'}
+{'tail': 'sea', 'count': 13, 'head': 'river'}
+{'tail': 'country', 'count': 8, 'head': 'river'}
+{'tail': 'lake', 'count': 4, 'head': 'river'}
+{'tail': 'town', 'count': 1, 'head': 'stream'}
+localAuthority
+{'tail': 'city', 'count': 1, 'head': 'school'}
+{'tail': 'administrative_region', 'count': 1, 'head': 'school'}
+{'tail': 'settlement', 'count': 1, 'head': 'school'}
+campus
+{'tail': 'settlement', 'count': 81, 'head': 'university'}
+{'tail': 'city', 'count': 52, 'head': 'university'}
+{'tail': 'country', 'count': 15, 'head': 'university'}
+{'tail': 'university', 'count': 5, 'head': 'university'}
+{'tail': 'town', 'count': 4, 'head': 'university'}
+{'tail': 'administrative_region', 'count': 2, 'head': 'university'}
+{'tail': 'lake', 'count': 1, 'head': 'university'}
+architecturalStyle
+{'tail': 'protected_area', 'count': 1, 'head': 'historic_place'}
+child
+{'tail': 'person', 'count': 372, 'head': 'person'}
+{'tail': 'office_holder', 'count': 110, 'head': 'office_holder'}
+{'tail': 'person', 'count': 51, 'head': 'office_holder'}
+{'tail': 'fictional_character', 'count': 47, 'head': 'fictional_character'}
+{'tail': 'musical_artist', 'count': 40, 'head': 'person'}
+{'tail': 'office_holder', 'count': 30, 'head': 'person'}
+{'tail': 'person', 'count': 11, 'head': 'writer'}
+{'tail': 'writer', 'count': 7, 'head': 'person'}
+{'tail': 'office_holder', 'count': 5, 'head': 'president'}
+{'tail': 'politician', 'count': 5, 'head': 'office_holder'}
+formerCoach
+{'tail': 'figure_skater', 'count': 34, 'head': 'figure_skater'}
+religion
+{'tail': 'ethnic_group', 'count': 17, 'head': 'ethnic_group'}
+{'tail': 'organisation', 'count': 9, 'head': 'person'}
+{'tail': 'country', 'count': 7, 'head': 'ethnic_group'}
+{'tail': 'ethnic_group', 'count': 6, 'head': 'person'}
+{'tail': 'person', 'count': 5, 'head': 'office_holder'}
+{'tail': 'person', 'count': 5, 'head': 'person'}
+{'tail': 'organisation', 'count': 4, 'head': 'school'}
+{'tail': 'organisation', 'count': 2, 'head': 'office_holder'}
+{'tail': 'settlement', 'count': 1, 'head': 'office_holder'}
+{'tail': 'ethnic_group', 'count': 1, 'head': 'office_holder'}
+variantOf
+{'tail': 'automobile', 'count': 202, 'head': 'automobile'}
+athletics
+{'tail': 'organisation', 'count': 231, 'head': 'university'}
+{'tail': 'sport', 'count': 9, 'head': 'university'}
+{'tail': 'sports_league', 'count': 3, 'head': 'university'}
+{'tail': 'university', 'count': 1, 'head': 'university'}
+battle
+{'tail': 'military_conflict', 'count': 6570, 'head': 'military_unit'}
+{'tail': 'military_conflict', 'count': 2880, 'head': 'military_person'}
+{'tail': 'military_conflict', 'count': 1650, 'head': 'office_holder'}
+{'tail': 'military_conflict', 'count': 236, 'head': 'governor'}
+{'tail': 'military_conflict', 'count': 95, 'head': 'congressman'}
+{'tail': 'military_conflict', 'count': 58, 'head': 'president'}
+{'tail': 'country', 'count': 56, 'head': 'military_unit'}
+{'tail': 'military_conflict', 'count': 55, 'head': 'prime_minister'}
+{'tail': 'military_conflict', 'count': 53, 'head': 'politician'}
+{'tail': 'military_conflict', 'count': 45, 'head': 'member_o_fparliament'}
+architect
+{'tail': 'company', 'count': 7, 'head': 'stadium'}
+{'tail': 'architect', 'count': 5, 'head': 'building'}
+{'tail': 'artist', 'count': 2, 'head': 'historic_building'}
+{'tail': 'architect', 'count': 2, 'head': 'stadium'}
+{'tail': 'engineer', 'count': 1, 'head': 'stadium'}
+{'tail': 'company', 'count': 1, 'head': 'building'}
+{'tail': 'person', 'count': 1, 'head': 'building'}
+{'tail': 'scientist', 'count': 1, 'head': 'historic_building'}
+otherParty
+{'tail': 'political_party', 'count': 295, 'head': 'office_holder'}
+{'tail': 'political_party', 'count': 25, 'head': 'member_o_fparliament'}
+{'tail': 'political_party', 'count': 23, 'head': 'president'}
+{'tail': 'political_party', 'count': 19, 'head': 'prime_minister'}
+{'tail': 'political_party', 'count': 18, 'head': 'politician'}
+{'tail': 'organisation', 'count': 6, 'head': 'office_holder'}
+{'tail': 'political_party', 'count': 4, 'head': 'congressman'}
+{'tail': 'political_party', 'count': 3, 'head': 'senator'}
+{'tail': 'political_party', 'count': 2, 'head': 'governor'}
+{'tail': 'organisation', 'count': 1, 'head': 'politician'}
+hometown
+{'tail': 'city', 'count': 3835, 'head': 'band'}
+{'tail': 'country', 'count': 3635, 'head': 'band'}
+{'tail': 'city', 'count': 2328, 'head': 'musical_artist'}
+{'tail': 'administrative_region', 'count': 2017, 'head': 'band'}
+{'tail': 'settlement', 'count': 1893, 'head': 'band'}
+{'tail': 'country', 'count': 1814, 'head': 'musical_artist'}
+{'tail': 'settlement', 'count': 1051, 'head': 'musical_artist'}
+{'tail': 'administrative_region', 'count': 1011, 'head': 'musical_artist'}
+{'tail': 'city', 'count': 166, 'head': 'person'}
+{'tail': 'town', 'count': 140, 'head': 'band'}
+councilArea
+{'tail': 'island', 'count': 3, 'head': 'settlement'}
+countySeat
+{'tail': 'city', 'count': 986, 'head': 'administrative_region'}
+{'tail': 'settlement', 'count': 191, 'head': 'administrative_region'}
+{'tail': 'town', 'count': 106, 'head': 'administrative_region'}
+{'tail': 'village', 'count': 34, 'head': 'administrative_region'}
+{'tail': 'administrative_region', 'count': 4, 'head': 'administrative_region'}
+{'tail': 'place', 'count': 2, 'head': 'administrative_region'}
+ground
+{'tail': 'settlement', 'count': 355, 'head': 'soccer_club'}
+{'tail': 'country', 'count': 114, 'head': 'soccer_club'}
+{'tail': 'city', 'count': 106, 'head': 'soccer_club'}
+{'tail': 'stadium', 'count': 52, 'head': 'soccer_club'}
+{'tail': 'venue', 'count': 37, 'head': 'soccer_club'}
+{'tail': 'administrative_region', 'count': 20, 'head': 'soccer_club'}
+{'tail': 'town', 'count': 6, 'head': 'soccer_club'}
+{'tail': 'city', 'count': 3, 'head': 'soccer_clu_bseason'}
+{'tail': 'place', 'count': 1, 'head': 'soccer_club'}
+{'tail': 'settlement', 'count': 1, 'head': 'soccer_clu_bseason'}
+homeStadium
+{'tail': 'city', 'count': 3, 'head': 'soccer_clu_bseason'}
+{'tail': 'stadium', 'count': 2, 'head': 'canadian_footbal_lteam'}
+{'tail': 'administrative_region', 'count': 1, 'head': 'soccer_clu_bseason'}
+{'tail': 'settlement', 'count': 1, 'head': 'soccer_clu_bseason'}
+stadium
+{'tail': 'stadium', 'count': 8, 'head': 'soccer_club'}
+{'tail': 'settlement', 'count': 5, 'head': 'soccer_club'}
+{'tail': 'venue', 'count': 3, 'head': 'soccer_club'}
+{'tail': 'city', 'count': 2, 'head': 'soccer_club'}
+{'tail': 'stadium', 'count': 2, 'head': 'sports_team'}
+{'tail': 'country', 'count': 1, 'head': 'soccer_club'}
+designer
+{'tail': 'person', 'count': 62, 'head': 'automobile'}
+{'tail': 'company', 'count': 54, 'head': 'automobile'}
+{'tail': 'fashion_designer', 'count': 42, 'head': 'automobile'}
+{'tail': 'person', 'count': 40, 'head': 'video_game'}
+{'tail': 'scientist', 'count': 23, 'head': 'programming_language'}
+{'tail': 'engineer', 'count': 10, 'head': 'automobile'}
+{'tail': 'company', 'count': 3, 'head': 'programming_language'}
+{'tail': 'writer', 'count': 3, 'head': 'game'}
+{'tail': 'person', 'count': 3, 'head': 'aircraft'}
+{'tail': 'company', 'count': 2, 'head': 'video_game'}
+coach
+{'tail': 'college_coach', 'count': 51, 'head': 'n____caa_teamseason'}
+{'tail': 'american_footbal_lplayer', 'count': 9, 'head': 'american_footbal_lteam'}
+{'tail': 'soccer_manager', 'count': 7, 'head': 'soccer_club'}
+{'tail': 'american_footbal_lplayer', 'count': 4, 'head': 'n____caa_teamseason'}
+{'tail': 'gridiron_footbal_lplayer', 'count': 1, 'head': 'canadian_footbal_lteam'}
+{'tail': 'college_coach', 'count': 1, 'head': 'american_footbal_lteam'}
+{'tail': 'college_coach', 'count': 1, 'head': 'national_footbal_lleag_ueseason'}
+foundationPlace
+{'tail': 'city', 'count': 336, 'head': 'company'}
+{'tail': 'country', 'count': 296, 'head': 'company'}
+{'tail': 'administrative_region', 'count': 141, 'head': 'company'}
+{'tail': 'settlement', 'count': 123, 'head': 'company'}
+{'tail': 'country', 'count': 22, 'head': 'bank'}
+{'tail': 'town', 'count': 19, 'head': 'company'}
+{'tail': 'city', 'count': 18, 'head': 'bank'}
+{'tail': 'administrative_region', 'count': 9, 'head': 'bank'}
+{'tail': 'settlement', 'count': 5, 'head': 'bank'}
+{'tail': 'place', 'count': 1, 'head': 'company'}
+principalArea
+{'tail': 'settlement', 'count': 36, 'head': 'settlement'}
+{'tail': 'city', 'count': 4, 'head': 'settlement'}
+chancellor
+{'tail': 'office_holder', 'count': 47, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 22, 'head': 'university'}
+{'tail': 'office_holder', 'count': 15, 'head': 'president'}
+{'tail': 'royalty', 'count': 12, 'head': 'university'}
+{'tail': 'chancellor', 'count': 8, 'head': 'office_holder'}
+{'tail': 'chancellor', 'count': 6, 'head': 'president'}
+{'tail': 'person', 'count': 4, 'head': 'university'}
+{'tail': 'office_holder', 'count': 2, 'head': 'politician'}
+{'tail': 'chancellor', 'count': 1, 'head': 'chancellor'}
+{'tail': 'member_o_fparliament', 'count': 1, 'head': 'university'}
+computingPlatform
+{'tail': 'information_appliance', 'count': 1579, 'head': 'video_game'}
+{'tail': 'software', 'count': 398, 'head': 'video_game'}
+{'tail': 'information_appliance', 'count': 128, 'head': 'software'}
+{'tail': 'software', 'count': 67, 'head': 'software'}
+{'tail': 'company', 'count': 10, 'head': 'video_game'}
+{'tail': 'information_appliance', 'count': 6, 'head': 'album'}
+{'tail': 'video_game', 'count': 3, 'head': 'video_game'}
+{'tail': 'company', 'count': 3, 'head': 'software'}
+{'tail': 'software', 'count': 1, 'head': 'album'}
+{'tail': 'company', 'count': 1, 'head': 'album'}
+musicalBand
+{'tail': 'band', 'count': 2442, 'head': 'single'}
+{'tail': 'musical_artist', 'count': 1903, 'head': 'single'}
+{'tail': 'person', 'count': 1133, 'head': 'single'}
+{'tail': 'television_show', 'count': 6, 'head': 'single'}
+{'tail': 'comedy_group', 'count': 4, 'head': 'single'}
+{'tail': 'writer', 'count': 2, 'head': 'single'}
+{'tail': 'album', 'count': 2, 'head': 'single'}
+{'tail': 'record_label', 'count': 2, 'head': 'single'}
+{'tail': 'comedian', 'count': 1, 'head': 'single'}
+{'tail': 'actor', 'count': 1, 'head': 'single'}
+saint
+{'tail': 'saint', 'count': 19, 'head': 'settlement'}
+{'tail': 'christian_bishop', 'count': 1, 'head': 'settlement'}
+{'tail': 'royalty', 'count': 1, 'head': 'settlement'}
+subsequentWork
+{'tail': 'single', 'count': 1280, 'head': 'single'}
+{'tail': 'television_show', 'count': 519, 'head': 'television_show'}
+{'tail': 'album', 'count': 437, 'head': 'album'}
+{'tail': 'television_episode', 'count': 237, 'head': 'television_episode'}
+{'tail': 'film', 'count': 25, 'head': 'television_show'}
+{'tail': 'musical_artist', 'count': 6, 'head': 'single'}
+{'tail': 'single', 'count': 5, 'head': 'song'}
+{'tail': 'television_station', 'count': 4, 'head': 'television_show'}
+{'tail': 'person', 'count': 3, 'head': 'single'}
+{'tail': 'song', 'count': 3, 'head': 'single'}
+citizenship
+{'tail': 'country', 'count': 221, 'head': 'scientist'}
+{'tail': 'country', 'count': 117, 'head': 'person'}
+{'tail': 'country', 'count': 27, 'head': 'writer'}
+{'tail': 'ethnic_group', 'count': 16, 'head': 'person'}
+{'tail': 'ethnic_group', 'count': 7, 'head': 'scientist'}
+{'tail': 'ethnic_group', 'count': 6, 'head': 'writer'}
+{'tail': 'administrative_region', 'count': 3, 'head': 'scientist'}
+{'tail': 'country', 'count': 2, 'head': 'engineer'}
+{'tail': 'language', 'count': 1, 'head': 'scientist'}
+{'tail': 'country', 'count': 1, 'head': 'model'}
+bandMember
+{'tail': 'musical_artist', 'count': 4552, 'head': 'band'}
+{'tail': 'person', 'count': 100, 'head': 'band'}
+{'tail': 'band', 'count': 50, 'head': 'band'}
+{'tail': 'guitarist', 'count': 17, 'head': 'band'}
+{'tail': 'politician', 'count': 2, 'head': 'band'}
+{'tail': 'comedian', 'count': 2, 'head': 'band'}
+{'tail': 'wrestler', 'count': 1, 'head': 'band'}
+{'tail': 'classical_musi_cartist', 'count': 1, 'head': 'band'}
+{'tail': 'congressman', 'count': 1, 'head': 'band'}
+{'tail': 'office_holder', 'count': 1, 'head': 'band'}
+keyPerson
+{'tail': 'person', 'count': 270, 'head': 'company'}
+{'tail': 'musical_artist', 'count': 21, 'head': 'company'}
+{'tail': 'horse_trainer', 'count': 13, 'head': 'company'}
+{'tail': 'comics_creator', 'count': 12, 'head': 'company'}
+{'tail': 'person', 'count': 12, 'head': 'broadcast_network'}
+{'tail': 'university', 'count': 8, 'head': 'company'}
+{'tail': 'office_holder', 'count': 8, 'head': 'company'}
+{'tail': 'engineer', 'count': 8, 'head': 'company'}
+{'tail': 'writer', 'count': 8, 'head': 'company'}
+{'tail': 'artist', 'count': 7, 'head': 'company'}
+origin
+{'tail': 'country', 'count': 22, 'head': 'grape'}
+{'tail': 'country', 'count': 20, 'head': 'weapon'}
+{'tail': 'country', 'count': 6, 'head': 'aircraft'}
+{'tail': 'river', 'count': 2, 'head': 'grape'}
+{'tail': 'country', 'count': 2, 'head': 'beverage'}
+{'tail': 'administrative_region', 'count': 1, 'head': 'beverage'}
+foundedBy
+{'tail': 'musical_artist', 'count': 278, 'head': 'record_label'}
+{'tail': 'person', 'count': 148, 'head': 'company'}
+{'tail': 'person', 'count': 58, 'head': 'record_label'}
+{'tail': 'band', 'count': 32, 'head': 'record_label'}
+{'tail': 'company', 'count': 19, 'head': 'company'}
+{'tail': 'office_holder', 'count': 10, 'head': 'company'}
+{'tail': 'royalty', 'count': 6, 'head': 'school'}
+{'tail': 'company', 'count': 6, 'head': 'broadcast_network'}
+{'tail': 'musical_artist', 'count': 5, 'head': 'company'}
+{'tail': 'artist', 'count': 5, 'head': 'company'}
+league
+{'tail': 'soccer_league', 'count': 556, 'head': 'soccer_club'}
+{'tail': 'ice_hocke_yleague', 'count': 74, 'head': 'hockey_team'}
+{'tail': 'ice_hocke_yleague', 'count': 71, 'head': 'ice_hocke_yplayer'}
+{'tail': 'soccer_league', 'count': 20, 'head': 'sports_team'}
+{'tail': 'basketball_league', 'count': 5, 'head': 'basketball_player'}
+{'tail': 'football_leagu_eseason', 'count': 4, 'head': 'soccer_clu_bseason'}
+{'tail': 'soccer_league', 'count': 2, 'head': 'soccer_clu_bseason'}
+{'tail': 'football_leagu_eseason', 'count': 1, 'head': 'soccer_club'}
+{'tail': 'rugby_league', 'count': 1, 'head': 'rugby_club'}
+race
+{'tail': 'horse_race', 'count': 4850, 'head': 'jockey'}
+{'tail': 'horse_race', 'count': 3041, 'head': 'race_horse'}
+{'tail': 'horse_race', 'count': 2620, 'head': 'horse_trainer'}
+{'tail': 'country', 'count': 10, 'head': 'jockey'}
+{'tail': 'race_horse', 'count': 4, 'head': 'jockey'}
+{'tail': 'country', 'count': 1, 'head': 'horse_trainer'}
+{'tail': 'city', 'count': 1, 'head': 'jockey'}
+{'tail': 'island', 'count': 1, 'head': 'horse_trainer'}
+militaryUnit
+{'tail': 'military_unit', 'count': 193, 'head': 'office_holder'}
+{'tail': 'military_unit', 'count': 121, 'head': 'military_person'}
+{'tail': 'military_unit', 'count': 11, 'head': 'congressman'}
+{'tail': 'military_unit', 'count': 11, 'head': 'member_o_fparliament'}
+{'tail': 'military_unit', 'count': 10, 'head': 'governor'}
+{'tail': 'military_unit', 'count': 10, 'head': 'politician'}
+{'tail': 'military_unit', 'count': 8, 'head': 'prime_minister'}
+{'tail': 'military_unit', 'count': 3, 'head': 'senator'}
+{'tail': 'military_unit', 'count': 3, 'head': 'president'}
+{'tail': 'military_unit', 'count': 2, 'head': 'chancellor'}
+leaderParty
+{'tail': 'political_party', 'count': 701, 'head': 'settlement'}
+{'tail': 'political_party', 'count': 144, 'head': 'city'}
+{'tail': 'political_party', 'count': 64, 'head': 'town'}
+{'tail': 'political_party', 'count': 9, 'head': 'administrative_region'}
+{'tail': 'political_party', 'count': 1, 'head': 'village'}
+currency
+{'tail': 'currency', 'count': 81, 'head': 'country'}
+{'tail': 'country', 'count': 6, 'head': 'organisation'}
+{'tail': 'currency', 'count': 1, 'head': 'administrative_region'}
+{'tail': 'settlement', 'count': 1, 'head': 'country'}
+product
+{'tail': 'information_appliance', 'count': 49, 'head': 'company'}
+{'tail': 'software', 'count': 43, 'head': 'company'}
+{'tail': 'food', 'count': 43, 'head': 'company'}
+{'tail': 'television_show', 'count': 39, 'head': 'company'}
+{'tail': 'television_station', 'count': 38, 'head': 'company'}
+{'tail': 'video_game', 'count': 34, 'head': 'company'}
+{'tail': 'company', 'count': 23, 'head': 'company'}
+{'tail': 'language', 'count': 16, 'head': 'company'}
+{'tail': 'automobile', 'count': 11, 'head': 'company'}
+{'tail': 'beverage', 'count': 11, 'head': 'company'}
+secondLeader
+{'tail': 'office_holder', 'count': 5, 'head': 'election'}
+{'tail': 'politician', 'count': 1, 'head': 'election'}
+broadcastNetwork
+{'tail': 'broadcast_network', 'count': 329, 'head': 'radio_station'}
+{'tail': 'broadcast_network', 'count': 109, 'head': 'television_station'}
+{'tail': 'company', 'count': 102, 'head': 'radio_station'}
+{'tail': 'television_station', 'count': 88, 'head': 'television_station'}
+{'tail': 'radio_station', 'count': 78, 'head': 'radio_station'}
+{'tail': 'company', 'count': 39, 'head': 'television_station'}
+{'tail': 'television_station', 'count': 30, 'head': 'radio_station'}
+{'tail': 'american_footbal_lteam', 'count': 17, 'head': 'radio_station'}
+{'tail': 'organisation', 'count': 16, 'head': 'radio_station'}
+{'tail': 'hockey_team', 'count': 14, 'head': 'radio_station'}
+automobilePlatform
+{'tail': 'automobile', 'count': 140, 'head': 'automobile'}
+formerTeam
+{'tail': 'hockey_team', 'count': 1894, 'head': 'ice_hocke_yplayer'}
+{'tail': 'ice_hocke_yleague', 'count': 739, 'head': 'ice_hocke_yplayer'}
+{'tail': 'american_footbal_lteam', 'count': 61, 'head': 'american_footbal_lplayer'}
+{'tail': 'canadian_footbal_lteam', 'count': 6, 'head': 'american_footbal_lplayer'}
+{'tail': 'basketball_team', 'count': 5, 'head': 'basketball_player'}
+{'tail': 'soccer_league', 'count': 3, 'head': 'ice_hocke_yplayer'}
+{'tail': 'sports_team', 'count': 2, 'head': 'american_footbal_lplayer'}
+{'tail': 'sports_team', 'count': 1, 'head': 'ice_hocke_yplayer'}
+{'tail': 'canadian_footbal_lteam', 'count': 1, 'head': 'ice_hocke_yplayer'}
+{'tail': 'national_footbal_lleag_ueseason', 'count': 1, 'head': 'american_footbal_lplayer'}
+domain
+{'tail': 'bacteria', 'count': 15, 'head': 'bacteria'}
+{'tail': 'archaea', 'count': 4, 'head': 'archaea'}
+webcast
+{'tail': 'radio_station', 'count': 1, 'head': 'radio_station'}
+garrison
+{'tail': 'settlement', 'count': 158, 'head': 'military_unit'}
+{'tail': 'city', 'count': 118, 'head': 'military_unit'}
+{'tail': 'administrative_region', 'count': 86, 'head': 'military_unit'}
+{'tail': 'country', 'count': 74, 'head': 'military_unit'}
+{'tail': 'place', 'count': 35, 'head': 'military_unit'}
+{'tail': 'airport', 'count': 26, 'head': 'military_unit'}
+{'tail': 'military_structure', 'count': 22, 'head': 'military_unit'}
+{'tail': 'town', 'count': 13, 'head': 'military_unit'}
+{'tail': 'island', 'count': 12, 'head': 'military_unit'}
+{'tail': 'building', 'count': 5, 'head': 'military_unit'}
+owner
+{'tail': 'company', 'count': 475, 'head': 'company'}
+{'tail': 'company', 'count': 358, 'head': 'radio_station'}
+{'tail': 'person', 'count': 109, 'head': 'race_horse'}
+{'tail': 'company', 'count': 80, 'head': 'railway_line'}
+{'tail': 'company', 'count': 64, 'head': 'race_horse'}
+{'tail': 'person', 'count': 43, 'head': 'company'}
+{'tail': 'bank', 'count': 30, 'head': 'company'}
+{'tail': 'company', 'count': 28, 'head': 'soccer_club'}
+{'tail': 'public_transi_tsystem', 'count': 27, 'head': 'railway_line'}
+{'tail': 'soccer_club', 'count': 25, 'head': 'stadium'}
+riverMouth
+{'tail': 'river', 'count': 372, 'head': 'river'}
+{'tail': 'body_o_fwater', 'count': 29, 'head': 'river'}
+{'tail': 'sea', 'count': 26, 'head': 'river'}
+{'tail': 'lake', 'count': 17, 'head': 'river'}
+{'tail': 'place', 'count': 3, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 3, 'head': 'river'}
+{'tail': 'sea', 'count': 2, 'head': 'place'}
+{'tail': 'city', 'count': 2, 'head': 'river'}
+{'tail': 'settlement', 'count': 2, 'head': 'river'}
+{'tail': 'body_o_fwater', 'count': 2, 'head': 'place'}
+editor
+{'tail': 'person', 'count': 48, 'head': 'television_show'}
+{'tail': 'screen_writer', 'count': 1, 'head': 'television_show'}
+{'tail': 'comedian', 'count': 1, 'head': 'television_show'}
+{'tail': 'person', 'count': 1, 'head': 'magazine'}
+{'tail': 'writer', 'count': 1, 'head': 'television_show'}
+relation
+{'tail': 'office_holder', 'count': 106, 'head': 'office_holder'}
+{'tail': 'person', 'count': 77, 'head': 'person'}
+{'tail': 'office_holder', 'count': 29, 'head': 'person'}
+{'tail': 'person', 'count': 16, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 7, 'head': 'military_person'}
+{'tail': 'member_o_fparliament', 'count': 6, 'head': 'member_o_fparliament'}
+{'tail': 'president', 'count': 6, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 6, 'head': 'member_o_fparliament'}
+{'tail': 'military_person', 'count': 6, 'head': 'military_person'}
+{'tail': 'office_holder', 'count': 5, 'head': 'president'}
+phylum
+{'tail': 'animal', 'count': 479, 'head': 'insect'}
+{'tail': 'animal', 'count': 16, 'head': 'animal'}
+{'tail': 'fungus', 'count': 13, 'head': 'fungus'}
+{'tail': 'crustacean', 'count': 12, 'head': 'crustacean'}
+{'tail': 'animal', 'count': 12, 'head': 'crustacean'}
+{'tail': 'eukaryote', 'count': 9, 'head': 'eukaryote'}
+{'tail': 'bacteria', 'count': 8, 'head': 'bacteria'}
+{'tail': 'bacteria', 'count': 8, 'head': 'species'}
+{'tail': 'animal', 'count': 4, 'head': 'arachnid'}
+{'tail': 'eukaryote', 'count': 4, 'head': 'species'}
+managerClub
+{'tail': 'soccer_club', 'count': 1229, 'head': 'soccer_manager'}
+{'tail': 'university', 'count': 3, 'head': 'soccer_manager'}
+manufacturer
+{'tail': 'company', 'count': 925, 'head': 'automobile'}
+{'tail': 'company', 'count': 65, 'head': 'information_appliance'}
+{'tail': 'bank', 'count': 27, 'head': 'automobile'}
+{'tail': 'company', 'count': 21, 'head': 'aircraft'}
+{'tail': 'company', 'count': 15, 'head': 'train'}
+{'tail': 'company', 'count': 4, 'head': 'automobile_engine'}
+{'tail': 'company', 'count': 3, 'head': 'beverage'}
+academicAdvisor
+{'tail': 'scientist', 'count': 139, 'head': 'scientist'}
+{'tail': 'office_holder', 'count': 5, 'head': 'scientist'}
+{'tail': 'philosopher', 'count': 5, 'head': 'scientist'}
+{'tail': 'university', 'count': 2, 'head': 'scientist'}
+{'tail': 'person', 'count': 1, 'head': 'scientist'}
+{'tail': 'economist', 'count': 1, 'head': 'scientist'}
+draftTeam
+{'tail': 'hockey_team', 'count': 143, 'head': 'ice_hocke_yplayer'}
+{'tail': 'basketball_team', 'count': 2, 'head': 'basketball_player'}
+writer
+{'tail': 'musical_artist', 'count': 5974, 'head': 'single'}
+{'tail': 'person', 'count': 1254, 'head': 'film'}
+{'tail': 'person', 'count': 1115, 'head': 'single'}
+{'tail': 'writer', 'count': 245, 'head': 'film'}
+{'tail': 'band', 'count': 244, 'head': 'single'}
+{'tail': 'person', 'count': 220, 'head': 'television_episode'}
+{'tail': 'screen_writer', 'count': 195, 'head': 'film'}
+{'tail': 'writer', 'count': 158, 'head': 'television_episode'}
+{'tail': 'musical_artist', 'count': 107, 'head': 'song'}
+{'tail': 'person', 'count': 30, 'head': 'song'}
+county
+{'tail': 'country', 'count': 48, 'head': 'road'}
+{'tail': 'administrative_region', 'count': 39, 'head': 'school'}
+{'tail': 'settlement', 'count': 26, 'head': 'settlement'}
+{'tail': 'settlement', 'count': 8, 'head': 'school'}
+{'tail': 'settlement', 'count': 1, 'head': 'road'}
+movement
+{'tail': 'music_genre', 'count': 1, 'head': 'artist'}
+{'tail': 'organisation', 'count': 1, 'head': 'musical_artist'}
+{'tail': 'artwork', 'count': 1, 'head': 'artist'}
+nationalAffiliation
+{'tail': 'political_party', 'count': 50, 'head': 'political_party'}
+narrator
+{'tail': 'person', 'count': 210, 'head': 'television_show'}
+{'tail': 'person', 'count': 124, 'head': 'film'}
+{'tail': 'musical_artist', 'count': 7, 'head': 'film'}
+{'tail': 'comedian', 'count': 7, 'head': 'television_show'}
+{'tail': 'comedian', 'count': 3, 'head': 'film'}
+{'tail': 'musical_artist', 'count': 3, 'head': 'television_show'}
+{'tail': 'comics_creator', 'count': 2, 'head': 'television_show'}
+{'tail': 'writer', 'count': 2, 'head': 'film'}
+{'tail': 'writer', 'count': 1, 'head': 'television_show'}
+{'tail': 'actor', 'count': 1, 'head': 'film'}
+recordLabel
+{'tail': 'record_label', 'count': 13911, 'head': 'musical_artist'}
+{'tail': 'record_label', 'count': 11942, 'head': 'band'}
+{'tail': 'record_label', 'count': 5318, 'head': 'single'}
+{'tail': 'record_label', 'count': 2411, 'head': 'album'}
+{'tail': 'company', 'count': 1581, 'head': 'musical_artist'}
+{'tail': 'company', 'count': 1198, 'head': 'band'}
+{'tail': 'company', 'count': 520, 'head': 'single'}
+{'tail': 'company', 'count': 225, 'head': 'album'}
+{'tail': 'record_label', 'count': 78, 'head': 'song'}
+{'tail': 'band', 'count': 42, 'head': 'musical_artist'}
+region
+{'tail': 'administrative_region', 'count': 763, 'head': 'office_holder'}
+{'tail': 'administrative_region', 'count': 579, 'head': 'settlement'}
+{'tail': 'settlement', 'count': 187, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 116, 'head': 'river'}
+{'tail': 'country', 'count': 115, 'head': 'food'}
+{'tail': 'settlement', 'count': 100, 'head': 'office_holder'}
+{'tail': 'settlement', 'count': 78, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 69, 'head': 'congressman'}
+{'tail': 'administrative_region', 'count': 49, 'head': 'governor'}
+{'tail': 'administrative_region', 'count': 33, 'head': 'senator'}
+tenant
+{'tail': 'soccer_club', 'count': 73, 'head': 'stadium'}
+{'tail': 'hockey_team', 'count': 9, 'head': 'stadium'}
+{'tail': 'baseball_team', 'count': 5, 'head': 'stadium'}
+{'tail': 'soccer_league', 'count': 5, 'head': 'stadium'}
+{'tail': 'company', 'count': 5, 'head': 'building'}
+{'tail': 'radio_station', 'count': 4, 'head': 'building'}
+{'tail': 'television_station', 'count': 3, 'head': 'building'}
+{'tail': 'university', 'count': 2, 'head': 'building'}
+{'tail': 'basketball_team', 'count': 2, 'head': 'stadium'}
+{'tail': 'sports_team', 'count': 2, 'head': 'stadium'}
+rival
+{'tail': 'school', 'count': 2, 'head': 'school'}
+designCompany
+{'tail': 'person', 'count': 62, 'head': 'automobile'}
+{'tail': 'company', 'count': 54, 'head': 'automobile'}
+{'tail': 'fashion_designer', 'count': 42, 'head': 'automobile'}
+{'tail': 'engineer', 'count': 10, 'head': 'automobile'}
+{'tail': 'formula_on_eracer', 'count': 1, 'head': 'automobile'}
+guest
+{'tail': 'person', 'count': 2390, 'head': 'television_episode'}
+{'tail': 'musical_artist', 'count': 114, 'head': 'television_episode'}
+{'tail': 'comedian', 'count': 38, 'head': 'television_episode'}
+{'tail': 'band', 'count': 9, 'head': 'television_episode'}
+{'tail': 'american_footbal_lplayer', 'count': 4, 'head': 'television_episode'}
+{'tail': 'office_holder', 'count': 3, 'head': 'television_episode'}
+{'tail': 'fictional_character', 'count': 3, 'head': 'television_episode'}
+{'tail': 'actor', 'count': 2, 'head': 'television_episode'}
+{'tail': 'writer', 'count': 2, 'head': 'television_episode'}
+{'tail': 'comics_creator', 'count': 1, 'head': 'television_episode'}
+season
+{'tail': 'football_leagu_eseason', 'count': 267, 'head': 'soccer_club'}
+{'tail': 'football_leagu_eseason', 'count': 2, 'head': 'soccer_clu_bseason'}
+{'tail': 'soccer_league', 'count': 1, 'head': 'soccer_club'}
+{'tail': 'soccer_league', 'count': 1, 'head': 'soccer_clu_bseason'}
+spouse
+{'tail': 'person', 'count': 1246, 'head': 'person'}
+{'tail': 'office_holder', 'count': 107, 'head': 'office_holder'}
+{'tail': 'musical_artist', 'count': 92, 'head': 'person'}
+{'tail': 'royalty', 'count': 75, 'head': 'royalty'}
+{'tail': 'fictional_character', 'count': 34, 'head': 'fictional_character'}
+{'tail': 'person', 'count': 29, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 26, 'head': 'person'}
+{'tail': 'writer', 'count': 18, 'head': 'person'}
+{'tail': 'actor', 'count': 18, 'head': 'actor'}
+{'tail': 'person', 'count': 13, 'head': 'writer'}
+inflow
+{'tail': 'river', 'count': 28, 'head': 'lake'}
+{'tail': 'river', 'count': 19, 'head': 'sea'}
+{'tail': 'river', 'count': 17, 'head': 'body_o_fwater'}
+{'tail': 'body_o_fwater', 'count': 3, 'head': 'body_o_fwater'}
+{'tail': 'sea', 'count': 2, 'head': 'body_o_fwater'}
+{'tail': 'sea', 'count': 2, 'head': 'sea'}
+{'tail': 'settlement', 'count': 1, 'head': 'body_o_fwater'}
+{'tail': 'body_o_fwater', 'count': 1, 'head': 'sea'}
+{'tail': 'river', 'count': 1, 'head': 'dam'}
+{'tail': 'place', 'count': 1, 'head': 'body_o_fwater'}
+significantBuilding
+{'tail': 'settlement', 'count': 14, 'head': 'architect'}
+{'tail': 'city', 'count': 12, 'head': 'architect'}
+{'tail': 'museum', 'count': 3, 'head': 'architect'}
+{'tail': 'airport', 'count': 2, 'head': 'architect'}
+{'tail': 'building', 'count': 1, 'head': 'architect'}
+{'tail': 'historic_building', 'count': 1, 'head': 'architect'}
+{'tail': 'country', 'count': 1, 'head': 'architect'}
+{'tail': 'town', 'count': 1, 'head': 'architect'}
+{'tail': 'venue', 'count': 1, 'head': 'architect'}
+notableWork
+{'tail': 'television_show', 'count': 123, 'head': 'writer'}
+{'tail': 'fictional_character', 'count': 7, 'head': 'writer'}
+{'tail': 'film', 'count': 7, 'head': 'writer'}
+{'tail': 'book', 'count': 6, 'head': 'writer'}
+{'tail': 'language', 'count': 6, 'head': 'writer'}
+{'tail': 'person', 'count': 5, 'head': 'writer'}
+{'tail': 'television_show', 'count': 3, 'head': 'screen_writer'}
+{'tail': 'film', 'count': 2, 'head': 'screen_writer'}
+{'tail': 'musical_artist', 'count': 2, 'head': 'writer'}
+{'tail': 'single', 'count': 1, 'head': 'writer'}
+powerType
+{'tail': 'company', 'count': 5, 'head': 'ship'}
+creator
+{'tail': 'person', 'count': 987, 'head': 'television_show'}
+{'tail': 'writer', 'count': 224, 'head': 'television_show'}
+{'tail': 'company', 'count': 114, 'head': 'television_show'}
+{'tail': 'comedian', 'count': 90, 'head': 'television_show'}
+{'tail': 'person', 'count': 88, 'head': 'fictional_character'}
+{'tail': 'writer', 'count': 78, 'head': 'fictional_character'}
+{'tail': 'comics_creator', 'count': 68, 'head': 'television_show'}
+{'tail': 'broadcast_network', 'count': 45, 'head': 'television_show'}
+{'tail': 'musical_artist', 'count': 34, 'head': 'television_show'}
+{'tail': 'television_station', 'count': 29, 'head': 'television_show'}
+sourceMountain
+{'tail': 'settlement', 'count': 39, 'head': 'river'}
+{'tail': 'mountain_range', 'count': 36, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 30, 'head': 'river'}
+{'tail': 'city', 'count': 26, 'head': 'river'}
+{'tail': 'town', 'count': 10, 'head': 'river'}
+{'tail': 'river', 'count': 10, 'head': 'river'}
+{'tail': 'protected_area', 'count': 4, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 4, 'head': 'place'}
+{'tail': 'country', 'count': 3, 'head': 'river'}
+{'tail': 'mountain', 'count': 2, 'head': 'river'}
+operatingSystem
+{'tail': 'software', 'count': 269, 'head': 'software'}
+{'tail': 'information_appliance', 'count': 32, 'head': 'software'}
+{'tail': 'software', 'count': 16, 'head': 'information_appliance'}
+{'tail': 'company', 'count': 6, 'head': 'software'}
+{'tail': 'company', 'count': 2, 'head': 'information_appliance'}
+editing
+{'tail': 'person', 'count': 555, 'head': 'film'}
+{'tail': 'artist', 'count': 10, 'head': 'film'}
+{'tail': 'office_holder', 'count': 4, 'head': 'film'}
+{'tail': 'musical_artist', 'count': 2, 'head': 'film'}
+{'tail': 'screen_writer', 'count': 2, 'head': 'film'}
+{'tail': 'television_station', 'count': 1, 'head': 'film'}
+owningOrganisation
+{'tail': 'public_transi_tsystem', 'count': 1, 'head': 'railway_station'}
+{'tail': 'government_agency', 'count': 1, 'head': 'station'}
+person
+{'tail': 'person', 'count': 86, 'head': 'television_show'}
+{'tail': 'company', 'count': 1, 'head': 'television_show'}
+{'tail': 'college_coach', 'count': 1, 'head': 'person_function'}
+{'tail': 'musical_artist', 'count': 1, 'head': 'person_function'}
+jurisdiction
+{'tail': 'administrative_region', 'count': 21, 'head': 'government_agency'}
+{'tail': 'country', 'count': 18, 'head': 'government_agency'}
+{'tail': 'city', 'count': 3, 'head': 'government_agency'}
+{'tail': 'settlement', 'count': 2, 'head': 'government_agency'}
+distributingCompany
+{'tail': 'record_label', 'count': 513, 'head': 'record_label'}
+{'tail': 'company', 'count': 351, 'head': 'record_label'}
+{'tail': 'software', 'count': 3, 'head': 'record_label'}
+{'tail': 'publisher', 'count': 2, 'head': 'record_label'}
+{'tail': 'television_station', 'count': 1, 'head': 'record_label'}
+{'tail': 'broadcast_network', 'count': 1, 'head': 'record_label'}
+commandStructure
+{'tail': 'military_unit', 'count': 264, 'head': 'military_unit'}
+{'tail': 'government_agency', 'count': 22, 'head': 'military_unit'}
+{'tail': 'organisation', 'count': 2, 'head': 'military_unit'}
+species
+{'tail': 'plant', 'count': 23, 'head': 'grape'}
+{'tail': 'mammal', 'count': 8, 'head': 'fictional_character'}
+{'tail': 'film', 'count': 1, 'head': 'fictional_character'}
+{'tail': 'plant', 'count': 1, 'head': 'cultivated_variety'}
+daylightSavingTimeZone
+{'tail': 'administrative_region', 'count': 6, 'head': 'settlement'}
+colour
+{'tail': 'colour', 'count': 362, 'head': 'political_party'}
+{'tail': 'colour', 'count': 29, 'head': 'military_unit'}
+{'tail': 'colour', 'count': 16, 'head': 'race_horse'}
+{'tail': 'colour', 'count': 5, 'head': 'school'}
+canton
+{'tail': 'settlement', 'count': 43, 'head': 'settlement'}
+{'tail': 'country', 'count': 1, 'head': 'settlement'}
+chairman
+{'tail': 'person', 'count': 14, 'head': 'soccer_club'}
+{'tail': 'office_holder', 'count': 6, 'head': 'soccer_club'}
+{'tail': 'politician', 'count': 2, 'head': 'soccer_club'}
+{'tail': 'soccer_club', 'count': 1, 'head': 'soccer_club'}
+{'tail': 'soccer_manager', 'count': 1, 'head': 'soccer_club'}
+timeZone
+{'tail': 'country', 'count': 25, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 11, 'head': 'administrative_region'}
+{'tail': 'country', 'count': 11, 'head': 'administrative_region'}
+{'tail': 'administrative_region', 'count': 6, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 2, 'head': 'city'}
+{'tail': 'country', 'count': 1, 'head': 'city'}
+{'tail': 'country', 'count': 1, 'head': 'town'}
+musicComposer
+{'tail': 'musical_artist', 'count': 1235, 'head': 'film'}
+{'tail': 'person', 'count': 413, 'head': 'film'}
+{'tail': 'single', 'count': 190, 'head': 'television_episode'}
+{'tail': 'musical_artist', 'count': 81, 'head': 'television_episode'}
+{'tail': 'band', 'count': 69, 'head': 'film'}
+{'tail': 'band', 'count': 56, 'head': 'television_episode'}
+{'tail': 'person', 'count': 17, 'head': 'television_episode'}
+{'tail': 'actor', 'count': 14, 'head': 'film'}
+{'tail': 'artist', 'count': 10, 'head': 'film'}
+{'tail': 'writer', 'count': 3, 'head': 'film'}
+isPartOf
+{'tail': 'settlement', 'count': 8036, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 4827, 'head': 'city'}
+{'tail': 'administrative_region', 'count': 1607, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 1488, 'head': 'town'}
+{'tail': 'settlement', 'count': 1329, 'head': 'city'}
+{'tail': 'settlement', 'count': 481, 'head': 'town'}
+{'tail': 'city', 'count': 391, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 239, 'head': 'village'}
+{'tail': 'country', 'count': 132, 'head': 'settlement'}
+{'tail': 'town', 'count': 74, 'head': 'settlement'}
+bodyStyle
+{'tail': 'automobile', 'count': 11, 'head': 'automobile'}
+{'tail': 'company', 'count': 3, 'head': 'automobile'}
+{'tail': 'country', 'count': 1, 'head': 'automobile'}
+{'tail': 'administrative_region', 'count': 1, 'head': 'automobile'}
+regionServed
+{'tail': 'country', 'count': 1245, 'head': 'company'}
+{'tail': 'administrative_region', 'count': 330, 'head': 'company'}
+{'tail': 'country', 'count': 154, 'head': 'organisation'}
+{'tail': 'continent', 'count': 84, 'head': 'company'}
+{'tail': 'city', 'count': 82, 'head': 'company'}
+{'tail': 'country', 'count': 81, 'head': 'bank'}
+{'tail': 'settlement', 'count': 79, 'head': 'company'}
+{'tail': 'administrative_region', 'count': 75, 'head': 'organisation'}
+{'tail': 'administrative_region', 'count': 69, 'head': 'bank'}
+{'tail': 'town', 'count': 26, 'head': 'public_transi_tsystem'}
+type
+{'tail': 'company', 'count': 39, 'head': 'company'}
+{'tail': 'food', 'count': 21, 'head': 'food'}
+{'tail': 'military_unit', 'count': 19, 'head': 'military_unit'}
+{'tail': 'settlement', 'count': 10, 'head': 'city'}
+{'tail': 'settlement', 'count': 7, 'head': 'settlement'}
+{'tail': 'city', 'count': 7, 'head': 'settlement'}
+{'tail': 'country', 'count': 4, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 4, 'head': 'river'}
+{'tail': 'island', 'count': 4, 'head': 'settlement'}
+{'tail': 'company', 'count': 2, 'head': 'station'}
+governmentType
+{'tail': 'country', 'count': 7, 'head': 'country'}
+{'tail': 'settlement', 'count': 3, 'head': 'settlement'}
+{'tail': 'company', 'count': 1, 'head': 'country'}
+{'tail': 'legislature', 'count': 1, 'head': 'settlement'}
+{'tail': 'administrative_region', 'count': 1, 'head': 'city'}
+{'tail': 'legislature', 'count': 1, 'head': 'city'}
+{'tail': 'city', 'count': 1, 'head': 'settlement'}
+significantProject
+{'tail': 'settlement', 'count': 10, 'head': 'architect'}
+{'tail': 'venue', 'count': 9, 'head': 'architect'}
+{'tail': 'automobile', 'count': 5, 'head': 'engineer'}
+{'tail': 'settlement', 'count': 4, 'head': 'engineer'}
+{'tail': 'country', 'count': 4, 'head': 'engineer'}
+{'tail': 'stadium', 'count': 3, 'head': 'architect'}
+{'tail': 'city', 'count': 3, 'head': 'architect'}
+{'tail': 'university', 'count': 2, 'head': 'architect'}
+{'tail': 'city', 'count': 2, 'head': 'engineer'}
+{'tail': 'building', 'count': 1, 'head': 'architect'}
+company
+{'tail': 'company', 'count': 2490, 'head': 'television_show'}
+{'tail': 'television_station', 'count': 197, 'head': 'television_show'}
+{'tail': 'person', 'count': 84, 'head': 'television_show'}
+{'tail': 'broadcast_network', 'count': 78, 'head': 'television_show'}
+{'tail': 'publisher', 'count': 29, 'head': 'television_show'}
+{'tail': 'television_show', 'count': 20, 'head': 'television_show'}
+{'tail': 'writer', 'count': 11, 'head': 'television_show'}
+{'tail': 'organisation', 'count': 9, 'head': 'television_show'}
+{'tail': 'comedian', 'count': 7, 'head': 'television_show'}
+{'tail': 'american_footbal_lleague', 'count': 4, 'head': 'television_show'}
+doctoralStudent
+{'tail': 'scientist', 'count': 391, 'head': 'scientist'}
+{'tail': 'economist', 'count': 7, 'head': 'scientist'}
+{'tail': 'philosopher', 'count': 6, 'head': 'scientist'}
+{'tail': 'university', 'count': 4, 'head': 'scientist'}
+{'tail': 'person', 'count': 3, 'head': 'scientist'}
+{'tail': 'office_holder', 'count': 1, 'head': 'scientist'}
+{'tail': 'musical_artist', 'count': 1, 'head': 'scientist'}
+{'tail': 'company', 'count': 1, 'head': 'scientist'}
+{'tail': 'president', 'count': 1, 'head': 'scientist'}
+openingTheme
+{'tail': 'musical_artist', 'count': 209, 'head': 'television_show'}
+{'tail': 'person', 'count': 108, 'head': 'television_show'}
+{'tail': 'band', 'count': 99, 'head': 'television_show'}
+{'tail': 'single', 'count': 55, 'head': 'television_show'}
+{'tail': 'actor', 'count': 37, 'head': 'television_show'}
+{'tail': 'writer', 'count': 5, 'head': 'television_show'}
+{'tail': 'television_show', 'count': 3, 'head': 'television_show'}
+{'tail': 'album', 'count': 2, 'head': 'television_show'}
+{'tail': 'company', 'count': 1, 'head': 'television_show'}
+{'tail': 'artist', 'count': 1, 'head': 'television_show'}
+broadcastArea
+{'tail': 'country', 'count': 1008, 'head': 'television_station'}
+{'tail': 'city', 'count': 412, 'head': 'radio_station'}
+{'tail': 'settlement', 'count': 201, 'head': 'radio_station'}
+{'tail': 'administrative_region', 'count': 123, 'head': 'television_station'}
+{'tail': 'administrative_region', 'count': 120, 'head': 'radio_station'}
+{'tail': 'country', 'count': 117, 'head': 'broadcast_network'}
+{'tail': 'continent', 'count': 76, 'head': 'television_station'}
+{'tail': 'country', 'count': 61, 'head': 'radio_station'}
+{'tail': 'settlement', 'count': 46, 'head': 'television_station'}
+{'tail': 'administrative_region', 'count': 39, 'head': 'broadcast_network'}
+notableCommander
+{'tail': 'military_person', 'count': 225, 'head': 'military_unit'}
+{'tail': 'office_holder', 'count': 88, 'head': 'military_unit'}
+{'tail': 'royalty', 'count': 22, 'head': 'military_unit'}
+{'tail': 'governor', 'count': 11, 'head': 'military_unit'}
+{'tail': 'president', 'count': 9, 'head': 'military_unit'}
+{'tail': 'prime_minister', 'count': 6, 'head': 'military_unit'}
+{'tail': 'politician', 'count': 2, 'head': 'military_unit'}
+{'tail': 'senator', 'count': 2, 'head': 'military_unit'}
+{'tail': 'congressman', 'count': 1, 'head': 'military_unit'}
+{'tail': 'person', 'count': 1, 'head': 'military_unit'}
+field
+{'tail': 'disease', 'count': 5, 'head': 'scientist'}
+{'tail': 'settlement', 'count': 2, 'head': 'scientist'}
+{'tail': 'country', 'count': 1, 'head': 'scientist'}
+{'tail': 'plant', 'count': 1, 'head': 'scientist'}
+{'tail': 'city', 'count': 1, 'head': 'scientist'}
+sire
+{'tail': 'race_horse', 'count': 366, 'head': 'race_horse'}
+federalState
+{'tail': 'administrative_region', 'count': 91, 'head': 'town'}
+{'tail': 'administrative_region', 'count': 26, 'head': 'city'}
+{'tail': 'administrative_region', 'count': 13, 'head': 'settlement'}
+{'tail': 'city', 'count': 2, 'head': 'settlement'}
+{'tail': 'town', 'count': 1, 'head': 'town'}
+intercommunality
+{'tail': 'settlement', 'count': 1, 'head': 'settlement'}
+damsire
+{'tail': 'race_horse', 'count': 276, 'head': 'race_horse'}
+place
+{'tail': 'country', 'count': 847, 'head': 'military_conflict'}
+{'tail': 'administrative_region', 'count': 294, 'head': 'military_conflict'}
+{'tail': 'settlement', 'count': 270, 'head': 'military_conflict'}
+{'tail': 'city', 'count': 116, 'head': 'military_conflict'}
+{'tail': 'island', 'count': 51, 'head': 'military_conflict'}
+{'tail': 'continent', 'count': 50, 'head': 'military_conflict'}
+{'tail': 'sea', 'count': 45, 'head': 'military_conflict'}
+{'tail': 'body_o_fwater', 'count': 37, 'head': 'military_conflict'}
+{'tail': 'town', 'count': 13, 'head': 'military_conflict'}
+{'tail': 'military_conflict', 'count': 10, 'head': 'military_conflict'}
+operator
+{'tail': 'company', 'count': 60, 'head': 'railway_line'}
+{'tail': 'public_transi_tsystem', 'count': 34, 'head': 'railway_line'}
+{'tail': 'public_transi_tsystem', 'count': 14, 'head': 'public_transi_tsystem'}
+{'tail': 'company', 'count': 12, 'head': 'ship'}
+{'tail': 'soccer_club', 'count': 11, 'head': 'stadium'}
+{'tail': 'company', 'count': 11, 'head': 'public_transi_tsystem'}
+{'tail': 'military_unit', 'count': 8, 'head': 'airport'}
+{'tail': 'bus_company', 'count': 6, 'head': 'public_transi_tsystem'}
+{'tail': 'company', 'count': 6, 'head': 'airport'}
+{'tail': 'company', 'count': 4, 'head': 'stadium'}
+executiveProducer
+{'tail': 'person', 'count': 1849, 'head': 'television_show'}
+{'tail': 'writer', 'count': 147, 'head': 'television_show'}
+{'tail': 'comedian', 'count': 62, 'head': 'television_show'}
+{'tail': 'musical_artist', 'count': 26, 'head': 'television_show'}
+{'tail': 'comics_creator', 'count': 24, 'head': 'television_show'}
+{'tail': 'office_holder', 'count': 11, 'head': 'television_show'}
+{'tail': 'screen_writer', 'count': 11, 'head': 'television_show'}
+{'tail': 'artist', 'count': 7, 'head': 'television_show'}
+{'tail': 'broadcast_network', 'count': 5, 'head': 'television_show'}
+{'tail': 'poker_player', 'count': 4, 'head': 'television_show'}
+influenced
+{'tail': 'philosopher', 'count': 884, 'head': 'philosopher'}
+{'tail': 'writer', 'count': 687, 'head': 'writer'}
+{'tail': 'programming_language', 'count': 204, 'head': 'programming_language'}
+{'tail': 'comedian', 'count': 156, 'head': 'comedian'}
+{'tail': 'economist', 'count': 142, 'head': 'economist'}
+{'tail': 'scientist', 'count': 134, 'head': 'scientist'}
+{'tail': 'writer', 'count': 126, 'head': 'philosopher'}
+{'tail': 'scientist', 'count': 104, 'head': 'philosopher'}
+{'tail': 'person', 'count': 100, 'head': 'writer'}
+{'tail': 'philosopher', 'count': 56, 'head': 'scientist'}
+ethnicGroup
+{'tail': 'ethnic_group', 'count': 239, 'head': 'country'}
+{'tail': 'ethnic_group', 'count': 71, 'head': 'island'}
+{'tail': 'country', 'count': 2, 'head': 'island'}
+{'tail': 'country', 'count': 1, 'head': 'country'}
+{'tail': 'island', 'count': 1, 'head': 'island'}
+{'tail': 'settlement', 'count': 1, 'head': 'country'}
+{'tail': 'language', 'count': 1, 'head': 'country'}
+artist
+{'tail': 'band', 'count': 770, 'head': 'album'}
+{'tail': 'musical_artist', 'count': 586, 'head': 'album'}
+{'tail': 'person', 'count': 424, 'head': 'album'}
+{'tail': 'band', 'count': 37, 'head': 'song'}
+{'tail': 'musical_artist', 'count': 28, 'head': 'song'}
+{'tail': 'person', 'count': 23, 'head': 'song'}
+{'tail': 'record_label', 'count': 7, 'head': 'album'}
+{'tail': 'company', 'count': 3, 'head': 'album'}
+{'tail': 'fictional_character', 'count': 3, 'head': 'album'}
+{'tail': 'actor', 'count': 1, 'head': 'album'}
+monarch
+{'tail': 'royalty', 'count': 1123, 'head': 'office_holder'}
+{'tail': 'royalty', 'count': 173, 'head': 'prime_minister'}
+{'tail': 'royalty', 'count': 73, 'head': 'president'}
+{'tail': 'royalty', 'count': 51, 'head': 'governor'}
+{'tail': 'royalty', 'count': 26, 'head': 'politician'}
+{'tail': 'royalty', 'count': 14, 'head': 'member_o_fparliament'}
+{'tail': 'monarch', 'count': 8, 'head': 'office_holder'}
+{'tail': 'office_holder', 'count': 6, 'head': 'office_holder'}
+{'tail': 'royalty', 'count': 3, 'head': 'ambassador'}
+{'tail': 'monarch', 'count': 2, 'head': 'president'}
+raceHorse
+{'tail': 'race_horse', 'count': 719, 'head': 'jockey'}
+{'tail': 'race_horse', 'count': 319, 'head': 'horse_trainer'}
+{'tail': 'person', 'count': 1, 'head': 'horse_trainer'}
+{'tail': 'military_person', 'count': 1, 'head': 'jockey'}
+{'tail': 'plant', 'count': 1, 'head': 'horse_trainer'}
+{'tail': 'company', 'count': 1, 'head': 'jockey'}
+isPartOfMilitaryConflict
+{'tail': 'military_conflict', 'count': 889, 'head': 'military_conflict'}
+{'tail': 'island', 'count': 1, 'head': 'military_conflict'}
+{'tail': 'country', 'count': 1, 'head': 'military_conflict'}
+country
+{'tail': 'country', 'count': 10271, 'head': 'settlement'}
+{'tail': 'country', 'count': 3474, 'head': 'city'}
+{'tail': 'country', 'count': 2511, 'head': 'administrative_region'}
+{'tail': 'country', 'count': 1514, 'head': 'television_show'}
+{'tail': 'country', 'count': 1346, 'head': 'town'}
+{'tail': 'country', 'count': 1066, 'head': 'office_holder'}
+{'tail': 'country', 'count': 903, 'head': 'military_unit'}
+{'tail': 'country', 'count': 865, 'head': 'television_station'}
+{'tail': 'country', 'count': 761, 'head': 'film'}
+{'tail': 'country', 'count': 681, 'head': 'river'}
+partner
+{'tail': 'person', 'count': 152, 'head': 'person'}
+{'tail': 'musical_artist', 'count': 16, 'head': 'person'}
+{'tail': 'actor', 'count': 4, 'head': 'artist'}
+{'tail': 'actor', 'count': 3, 'head': 'actor'}
+{'tail': 'comedian', 'count': 3, 'head': 'person'}
+{'tail': 'musical_artist', 'count': 2, 'head': 'playboy_playmate'}
+{'tail': 'writer', 'count': 2, 'head': 'writer'}
+{'tail': 'office_holder', 'count': 2, 'head': 'office_holder'}
+{'tail': 'artist', 'count': 2, 'head': 'actor'}
+{'tail': 'royalty', 'count': 1, 'head': 'person'}
+associatedBand
+{'tail': 'musical_artist', 'count': 16048, 'head': 'musical_artist'}
+{'tail': 'band', 'count': 15687, 'head': 'musical_artist'}
+{'tail': 'band', 'count': 14421, 'head': 'band'}
+{'tail': 'person', 'count': 3409, 'head': 'musical_artist'}
+{'tail': 'musical_artist', 'count': 3051, 'head': 'band'}
+{'tail': 'person', 'count': 528, 'head': 'band'}
+{'tail': 'band', 'count': 52, 'head': 'guitarist'}
+{'tail': 'album', 'count': 37, 'head': 'musical_artist'}
+{'tail': 'television_show', 'count': 37, 'head': 'musical_artist'}
+{'tail': 'record_label', 'count': 31, 'head': 'musical_artist'}
+illustrator
+{'tail': 'artist', 'count': 1, 'head': 'book'}
+{'tail': 'person', 'count': 1, 'head': 'manga'}
+{'tail': 'comics_creator', 'count': 1, 'head': 'book'}
+cpu
+{'tail': 'company', 'count': 7, 'head': 'information_appliance'}
+{'tail': 'company', 'count': 1, 'head': 'video_game'}
+ingredient
+{'tail': 'plant', 'count': 23, 'head': 'food'}
+{'tail': 'food', 'count': 8, 'head': 'food'}
+{'tail': 'bird', 'count': 1, 'head': 'food'}
+{'tail': 'bacteria', 'count': 1, 'head': 'food'}
+channel
+{'tail': 'television_station', 'count': 769, 'head': 'television_show'}
+{'tail': 'broadcast_network', 'count': 657, 'head': 'television_show'}
+{'tail': 'company', 'count': 53, 'head': 'television_show'}
+{'tail': 'television_show', 'count': 1, 'head': 'television_show'}
+genre
+{'tail': 'music_genre', 'count': 28804, 'head': 'musical_artist'}
+{'tail': 'music_genre', 'count': 21543, 'head': 'band'}
+{'tail': 'music_genre', 'count': 7581, 'head': 'single'}
+{'tail': 'music_genre', 'count': 4694, 'head': 'album'}
+{'tail': 'music_genre', 'count': 1869, 'head': 'record_label'}
+{'tail': 'music_genre', 'count': 102, 'head': 'company'}
+{'tail': 'music_genre', 'count': 93, 'head': 'song'}
+{'tail': 'music_genre', 'count': 64, 'head': 'actor'}
+{'tail': 'music_genre', 'count': 62, 'head': 'guitarist'}
+{'tail': 'music_genre', 'count': 18, 'head': 'comedian'}
+frazioni
+{'tail': 'settlement', 'count': 1, 'head': 'settlement'}
+mouthMountain
+{'tail': 'city', 'count': 74, 'head': 'river'}
+{'tail': 'settlement', 'count': 73, 'head': 'river'}
+{'tail': 'administrative_region', 'count': 41, 'head': 'river'}
+{'tail': 'river', 'count': 28, 'head': 'river'}
+{'tail': 'town', 'count': 16, 'head': 'river'}
+{'tail': 'body_o_fwater', 'count': 14, 'head': 'river'}
+{'tail': 'sea', 'count': 13, 'head': 'river'}
+{'tail': 'country', 'count': 8, 'head': 'river'}
+{'tail': 'lake', 'count': 4, 'head': 'river'}
+{'tail': 'town', 'count': 1, 'head': 'stream'}
+network
+{'tail': 'television_station', 'count': 1639, 'head': 'television_show'}
+{'tail': 'broadcast_network', 'count': 1338, 'head': 'television_show'}
+{'tail': 'company', 'count': 129, 'head': 'television_show'}
+{'tail': 'television_station', 'count': 16, 'head': 'anime'}
+{'tail': 'radio_station', 'count': 7, 'head': 'television_show'}
+{'tail': 'company', 'count': 5, 'head': 'anime'}
+{'tail': 'television_show', 'count': 4, 'head': 'television_show'}
+{'tail': 'broadcast_network', 'count': 2, 'head': 'anime'}
+{'tail': 'radio_station', 'count': 1, 'head': 'anime'}
+{'tail': 'software', 'count': 1, 'head': 'television_show'}

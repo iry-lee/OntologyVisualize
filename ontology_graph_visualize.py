@@ -1,3 +1,4 @@
+# 使用的环境是pyecharts37.yml
 from pyecharts.charts import Graph
 import pyecharts.options as opts
 
