@@ -116,7 +116,8 @@ for i in range(0, len(relation_vector)):
     relation_list = list(relation_dic.keys())
     head_vector = relation_vector[i][0]
     tail_vector = relation_vector[i][1]
-    for j in range(i + 1, len(relation_vector)):
+    for j in range(i+1, len(relation_vector)):
+        if j == i: continue
         _head_vector = relation_vector[j][0]
         _tail_vector = relation_vector[j][1]
         c1 = cosine(_head_vector, head_vector)
@@ -142,3 +143,10 @@ for i in range(0, len(relation_vector)):
 
 equivalence_relation_file.close()
 inverse_relation_file.close()
+
+'''
+【后续的改进之处】：
+concept向量的生成，现在采用的是凡是出现在头/尾concept集合中，就将向量中该位置为1，
+其实无法很好地体现不同的concept在集合中所占比的关系，其实还要根据各个concept出现的次数
+也纳入到向量中，最后做一个正则化，这样应该会好一些。
+'''
