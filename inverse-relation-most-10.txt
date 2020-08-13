@@ -1,4 +1,4 @@
+notableCommander >>> militaryBranch(cosine: 0.20000000000000007,0.0)
+notableCommander >>> militaryUnit(cosine: 0.20000000000000007,0.0)
 timeZone >>> largestCity(cosine: 0.18350341907227385,0.10557280900008414)
 timeZone >>> capital(cosine: 0.0,0.18350341907227385)
-militaryUnit >>> notableCommander(cosine: 0.0,0.20000000000000007)
-notableCommander >>> militaryBranch(cosine: 0.20000000000000007,0.0)

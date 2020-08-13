@@ -1,7 +1,31 @@
-grandsire >>> sire(cosine: 0.0,0.0)
-grandsire >>> damsire(cosine: 0.0,0.0)
-formerCoach >>> formerPartner(cosine: 0.0,0.0)
-automobilePlatform >>> variantOf(cosine: 0.0,0.0)
-influenced >>> influencedBy(cosine: 0.0,0.0)
-frazioni >>> intercommunality(cosine: 0.0,0.0)
-sire >>> damsire(cosine: 0.0,0.0)
+class
+frazioni
+operatingSystem
+sire
+relation
+languageFamily
+formerCoach
+rival
+influencedBy
+genus
+damsire
+governor
+intercommunality
+associate
+nextEvent
+successor
+spouse
+parentCompany
+followingEvent
+grandsire
+parentOrganisation
+automobilePlatform
+owningCompany
+webcast
+formerPartner
+lieutenant
+part
+variantOf
+domain
+nationalAffiliation
+influenced

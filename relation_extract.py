@@ -125,9 +125,10 @@ for i in range(0, len(relation_vector)):
         c3 = cosine(_head_vector, tail_vector)
         c4 = cosine(_tail_vector, head_vector)
         if c1 < threshold and c2 < threshold and c3 < threshold and c4 < threshold:
-            selfloop_relation_file.write(relation_list[i])
-            selfloop_relation_file.write(" >>> " + relation_list[j] + "(cosine: " + str(c1) + "," + str(c2) + ")")
-            selfloop_relation_file.write("\n")
+            # 这里直接输出为自环关系是不严谨的
+            # selfloop_relation_file.write(relation_list[i])
+            # selfloop_relation_file.write(" >>> " + relation_list[j] + "(cosine: " + str(c1) + "," + str(c2) + ")")
+            # selfloop_relation_file.write("\n")
             continue
 
         if c1 < threshold and c2 < threshold:
@@ -141,9 +142,20 @@ for i in range(0, len(relation_vector)):
             inverse_relation_file.write("\n")
 
 
+
 equivalence_relation_file.close()
 inverse_relation_file.close()
 
+
+for i in range(0, len(relation_vector)):
+    relation_list = list(relation_dic.keys())
+    head_vector = relation_vector[i][0]
+    tail_vector = relation_vector[i][1]
+    if cosine(head_vector, tail_vector) < threshold:
+        selfloop_relation_file.write(relation_list[i])
+        selfloop_relation_file.write("\n")
+
+selfloop_relation_file.close()
 '''
 【后续的改进之处】：
 concept向量的生成，现在采用的是凡是出现在头/尾concept集合中，就将向量中该位置为1，
